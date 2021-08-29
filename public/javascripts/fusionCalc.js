@@ -133,7 +133,7 @@ function inputsClear() {
 }
 
 // Set up event listeners for each card input
-for (i = 1; i <= 5; i++) {
+for (i = 1; i <= 10; i++) {
     $("#hand" + i).on("change", function () {
         handCompletions[this.id].select(); // select the currently highlighted element
         if (this.value === "") {
