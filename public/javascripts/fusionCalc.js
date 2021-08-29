@@ -95,11 +95,17 @@ function findFusions() {
 
     var fuses = [];
     var equips = [];
+    
+    console.log('All cards', cards);
 
     for (i = 0; i < cards.length - 1; i++) {
         var card1 = cards[i];
         var card1Fuses = fusionsList[card1.Id];
         var card1Equips = equipsList[card1.Id];
+        
+        console.log('Card fusion list', card1Fuses);
+        console.log('Card equips list', card1Equips);
+        
         for (j = i + 1; j < cards.length; j++) {
             var card2 = cards[j];
             var fusion = card1Fuses.find((f) => f.card === card2.Id);
