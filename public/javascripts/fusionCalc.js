@@ -102,14 +102,12 @@ function findFusions() {
         var card1 = cards[i];
         var card1Fuses = fusionsList[card1.Id];
         var card1Equips = equipsList[card1.Id];
-        
-        console.log('Card fusion list', card1Fuses);
-        console.log('Card equips list', card1Equips);
-        
+
         for (j = i + 1; j < cards.length; j++) {
             var card2 = cards[j];
             var fusion = card1Fuses.find((f) => f.card === card2.Id);
             if (fusion) {
+                console.log('Found card fusion', fusion);
                 fuses.push({ card1: card1, card2: card2, result: getCardById(fusion.result) });
             }
             var equip = card1Equips.find((e) => e === card2.Id);
@@ -118,6 +116,9 @@ function findFusions() {
             }
         }
     }
+    
+    console.log('========================');
+    console.log('Found all fusions', fuses);
 
     outputLeft.innerHTML = "<h2 class='center'>Fusions:</h2>";
     outputLeft.innerHTML += fusesToHTML(fuses.sort((a, b) => b.result.Attack - a.result.Attack));
