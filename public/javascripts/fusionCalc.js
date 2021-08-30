@@ -1,5 +1,7 @@
 var outputLeft = document.getElementById("outputarealeft");
 var outputRight = document.getElementById("outputarearight");
+var TOTAL_CARDS_ON_HAND = 5;
+var TOTAL_CARDS_PLAYED = 5;
 
 // Initialize Awesomplete
 var _awesompleteOpts = {
@@ -10,7 +12,7 @@ var _awesompleteOpts = {
     filter: Awesomplete.FILTER_STARTSWITH, // Case insensitive from start of word
 };
 var handCompletions = {};
-for (i = 1; i <= 10; i++) {
+for (i = 1; i <= (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); i++) {
     var hand = document.getElementById("hand" + i);
     handCompletions["hand" + i] = new Awesomplete(hand, _awesompleteOpts);
 }
@@ -20,7 +22,7 @@ function fusesToHTML(fuselist) {
     return fuselist
         .map(function (fusion) {
             var res =
-                "<div class='result-div'><ul><li>Input: " +
+                "<div class='result-div'><ul style=\" padding-left: 32px; margin: 0 0 4px 0; \"><li>Input: " +
                 '<b>'+ fusion.card1.Name +'</b>' +
                 "</li><li>Input: " +
                 '<b>'+ fusion.card2.Name +'</b>' + '</li>';
@@ -92,10 +94,12 @@ function hasFusion(fusionList, card) {
 function findFusions() {
     var cards = [];
 
-    for (i = 1; i <= 5; i++) {
+    for (i = 1; i <= (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); i++) {
         var name = $("#hand" + i).val();
         var card = getCardByName(name);
         if (card) {
+            // Because i starts from 1, so 5 is the first 1/2
+            card._is_on_hand = i <= TOTAL_CARDS_ON_HAND;
             cards.push(card);
         }
     }
@@ -103,8 +107,14 @@ function findFusions() {
     var fuses = [];
     var equips = [];
 
-    for (i = 0; i < cards.length - 1; i++) {
+    for (i = 0; i < (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED) - 1; i++) {
         var card1 = cards[i];
+
+        // We cannot fuse played card
+        if (!card1._is_on_hand) {
+            break;
+        }
+
         for (j = i + 1; j < cards.length; j++) {
             var card2 = cards[j];
             var card12Fusion = fusionsList[card1.Id].find((f) => f.card === card2.Id);
@@ -142,7 +152,8 @@ function resultsClear() {
 }
 
 function inputsClear(handCardsOnly) {
-    var removeLength = handCardsOnly ? 5 : 10;
+    var removeLength = handCardsOnly ? TOTAL_CARDS_ON_HAND : (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED);
+
     for (i = 1; i <= removeLength; i++) {
         $("#hand" + i).val("");
         $("#hand" + i + "-info").html("");
@@ -150,7 +161,7 @@ function inputsClear(handCardsOnly) {
 }
 
 // Set up event listeners for each card input
-for (i = 1; i <= 10; i++) {
+for (i = 1; i <= (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); i++) {
     $("#hand" + i).on("change", function () {
         handCompletions[this.id].select(); // select the currently highlighted element
         if (this.value === "") {
@@ -179,7 +190,7 @@ $('#cleanUpBtn').on('click', function () {
     var currentHandCards = [];
 
     // Only clean the 5 cards on hand
-    for (var i = 1; i <= 5; i++) {
+    for (var i = 1; i <= TOTAL_CARDS_ON_HAND; i++) {
         currentHandCards.push($("#hand" + i).val());
     }
 
