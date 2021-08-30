@@ -20,25 +20,29 @@ function fusesToHTML(fuselist) {
     return fuselist
         .map(function (fusion) {
             var res =
-                "<div class='result-div'>Input: " +
-                fusion.card1.Name +
-                "<br>Input: " +
-                fusion.card2.Name;
+                "<div class='result-div'><ul><li>Input: " +
+                '<b>'+ fusion.card1.Name +'</b>' +
+                "</li><li>Input: " +
+                '<b>'+ fusion.card2.Name +'</b>' + '</li>';
 
             if (fusion.card3) {
-                res += "<br>Input: " + fusion.card3.Name;
+                res += "<li>Input: " + '<b>'+ fusion.card3.Name +'</b>';
+                res += '</li>';
             }
+
+            res += '</ul>';
 
             if (fusion.result) {
                 // Equips and Results don't have a result field
-                res += "<br>Result: " + fusion.result.Name;
+                res += "<div style=\" font-weight: bold; margin-bottom: 5px; margin-left: 14px; \">Result: <span style=\"color: blue;\">" + fusion.result.Name + '</span>';
                 if (isMonster(fusion.result)) {
                     res += " " + formatStats(fusion.result.Attack, fusion.result.Defense);
                 } else {
                     res += " [" + cardTypes[fusion.result.Type] + "]";
                 }
+                res += '</div>';
             }
-            return res + "<br><br></div>";
+            return res + "</div>";
         })
         .join("\n");
 }
@@ -178,7 +182,7 @@ $('#cleanUpBtn').on('click', function () {
     for (var i = 1; i <= 5; i++) {
         currentHandCards.push($("#hand" + i).val());
     }
-    
+
     resultsClear();
     inputsClear(true);
 
