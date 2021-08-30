@@ -137,6 +137,14 @@ function findFusions() {
                 // Continue to find the 3rd fusion
                 for (k = j + 1; k < cards.length; k++) {
                     var card3 = cards[k];
+
+                    // Similar idea, we cannot use 2 on hand card with a played card
+                    // Because the played card must always be the 1st card to fuse
+                    if (card3 && !card3._is_on_hand) {
+                        // Skip to check next card, DO NOT break
+                        continue;
+                    }
+
                     var card123Fusion = fusionsList[card12Fusion.result].find((f) => f.card === card3.Id);
 
                     if (card123Fusion) {
