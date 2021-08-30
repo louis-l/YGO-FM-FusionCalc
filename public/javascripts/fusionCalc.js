@@ -151,8 +151,9 @@ function resultsClear() {
     outputRight.innerHTML = "";
 }
 
-function inputsClear() {
-    for (i = 1; i <= 10; i++) {
+function inputsClear(handCardsOnly) {
+    var removeLength = handCardsOnly ? 5 : 10;
+    for (i = 1; i <= removeLength; i++) {
         $("#hand" + i).val("");
         $("#hand" + i + "-info").html("");
     }
@@ -181,7 +182,7 @@ for (i = 1; i <= 10; i++) {
 
 $("#resetBtn").on("click", function () {
     resultsClear();
-    inputsClear();
+    inputsClear(false);
 });
 
 $('#cleanUpBtn').on('click', function () {
@@ -193,7 +194,7 @@ $('#cleanUpBtn').on('click', function () {
     }
     
     resultsClear();
-    inputsClear();
+    inputsClear(true);
 
     setTimeout(function () {
         currentHandCards.filter(Boolean).forEach((name, handIndex) => {
