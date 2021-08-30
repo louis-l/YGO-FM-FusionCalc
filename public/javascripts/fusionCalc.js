@@ -208,4 +208,9 @@ $('#cleanUpBtn').on('click', function () {
         fillCardNameInFirstEmptySlot(handCardName);
         $handleInput.val('');
     }
+    
+    // Trigger change to clean up the old data
+    for (i = 1; i <= 5; i++) {
+        $("#hand" + i).change();
+    }
 });
