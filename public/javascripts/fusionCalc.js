@@ -87,10 +87,8 @@ function hasFusion(fusionList, card) {
 
 function findFusions() {
     var cards = [];
-    var monsters = [];
-    var others = [];
 
-    for (i = 1; i <= 10; i++) {
+    for (i = 1; i <= 5; i++) {
         var name = $("#hand" + i).val();
         var card = getCardByName(name);
         if (card) {
@@ -100,44 +98,32 @@ function findFusions() {
 
     var fuses = [];
     var equips = [];
-    
+
     for (i = 0; i < cards.length - 1; i++) {
         var card1 = cards[i];
-        var card1Fuses = fusionsList[card1.Id];
-        var card1Equips = equipsList[card1.Id];
-
         for (j = i + 1; j < cards.length; j++) {
             var card2 = cards[j];
-            var fusion = card1Fuses.find((f) => f.card === card2.Id);
-            if (fusion) {
-                var fusionResultCard = getCardById(fusion.result);
-                fuses.push({ card1: card1, card2: card2, result: fusionResultCard });
+            var card12Fusion = fusionsList[card1.Id].find((f) => f.card === card2.Id);
 
-                if (fusionResultCard && fusionResultCard.Fusions && fusionResultCard.Fusions.length) {
-                    for (k = 0; k < fusionResultCard.Fusions.length; k++) {
-                        var card3 = cards.find((c) => c.Id === fusionResultCard.Fusions[k]._card2);
-                        // console.log('card3', card3);
+            for (k = j + 1; k < cards.length; k++) {
+                var card3 = cards[k];
+                var card123Fusion = fusionsList[card12Fusion.result].find((f) => f.card === card3.Id);
 
-                        if (card3) {
-                            var card3FusionResult = getCardById(fusionResultCard.Fusions[k]._result);
-                            // console.log('card3FusionResult', card3FusionResult);
-
-                            fuses = [];
-                            fuses.push({ card1, card2, card3, result: card3FusionResult });
-                            // console.log('fuses', fuses);
-                        }
-                    }
+                if (card123Fusion) {
+                    fuses.push({ card1, card2, card3, result: getCardById(card123Fusion.result) });
                 }
             }
-            var equip = card1Equips.find((e) => e === card2.Id);
+
+            if (card12Fusion) {
+                fuses.push({ card1: card1, card2: card2, result: getCardById(card12Fusion.result) });
+            }
+
+            var equip = equipsList[card1.Id].find((e) => e === card2.Id);
             if (equip) {
                 equips.push({ card1: card1, card2: card2 });
             }
         }
     }
-    
-    // console.log('========================');
-    // console.log('Found all fusions', fuses);
 
     outputLeft.innerHTML = "<h2 class='center'>Fusions:</h2>";
     outputLeft.innerHTML += fusesToHTML(fuses.sort((a, b) => b.result.Attack - a.result.Attack));
