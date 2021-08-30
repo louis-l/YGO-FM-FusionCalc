@@ -111,13 +111,29 @@ function findFusions() {
         var card1 = cards[i];
 
         // We cannot fuse played card
-        if (!card1._is_on_hand) {
+        if (card1 && !card1._is_on_hand) {
             break;
         }
 
         for (j = i + 1; j < cards.length; j++) {
             var card2 = cards[j];
+
+            var equip = equipsList[card1.Id].find((e) => e === card2.Id);
+            if (equip) {
+                equips.push({ card1: card1, card2: card2 });
+            }
+
             var card12Fusion = fusionsList[card1.Id].find((f) => f.card === card2.Id);
+            if (card12Fusion) {
+                fuses.push({ card1, card2, result: getCardById(card12Fusion.result) });
+
+                // If card is is played, then we dont need to check the 3rd card
+                // Because we cannot use 1 on-hand-card with 2 played cards
+                if (!card2._is_on_hand) {
+                    // DO NOT break here, because we need to continue to check next played card to see if its fusable
+                    continue;
+                }
+            }
 
             for (k = j + 1; k < cards.length; k++) {
                 var card3 = cards[k];
@@ -126,15 +142,6 @@ function findFusions() {
                 if (card123Fusion) {
                     fuses.push({ card1, card2, card3, result: getCardById(card123Fusion.result) });
                 }
-            }
-
-            if (card12Fusion) {
-                fuses.push({ card1: card1, card2: card2, result: getCardById(card12Fusion.result) });
-            }
-
-            var equip = equipsList[card1.Id].find((e) => e === card2.Id);
-            if (equip) {
-                equips.push({ card1: card1, card2: card2 });
             }
         }
     }
