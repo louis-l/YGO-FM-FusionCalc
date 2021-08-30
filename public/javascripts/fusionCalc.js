@@ -133,14 +133,15 @@ function findFusions() {
                     // DO NOT break here, because we need to continue to check next played card to see if its fusable
                     continue;
                 }
-            }
 
-            for (k = j + 1; k < cards.length; k++) {
-                var card3 = cards[k];
-                var card123Fusion = fusionsList[card12Fusion.result].find((f) => f.card === card3.Id);
+                // Continue to find the 3rd fusion
+                for (k = j + 1; k < cards.length; k++) {
+                    var card3 = cards[k];
+                    var card123Fusion = fusionsList[card12Fusion.result].find((f) => f.card === card3.Id);
 
-                if (card123Fusion) {
-                    fuses.push({ card1, card2, card3, result: getCardById(card123Fusion.result) });
+                    if (card123Fusion) {
+                        fuses.push({ card1, card2, card3, result: getCardById(card123Fusion.result) });
+                    }
                 }
             }
         }
