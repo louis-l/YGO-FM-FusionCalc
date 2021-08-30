@@ -112,11 +112,36 @@ function findFusions() {
                 fuses.push({ card1: card1, card2: card2, result: fusionResultCard });
 
                 // If there is a fusion result, continue to search if the result can be fusioned again
-                for (k = i + 1; k < cards.length; k++) {
-                    var card3 = cards[k];
-                    var fusionResultCardFuses = fusionsList[fusion.result];
-                    var card3Fusion = fusionResultCardFuses.find((f) => f.card === fusion.result);
-                    console.log('Card 3 fusion', card3Fusion);
+                // for (k = i + 1; k < cards.length; k++) {
+                //     var card3 = cards[k];
+                //     var fusionResultCardFuses = fusionsList[fusion.result];
+                //     var card3Fusion = fusionResultCardFuses.find((f) => f.card === fusion.result);
+                //     console.log('Card 3 fusion', card3Fusion);
+                // }
+                if (fusionResultCard && fusionResultCard.Fusions && fusionResultCard.Fusions.length) {
+                    // var fusionResultCardNestedFusionCards = fusionResultCard.Fusions.map((f) => f._card2);
+                    // console.warn('fusionResultCardNestedFusionCards', fusionResultCardNestedFusionCards);
+
+                    for (k = 0; k < fusionResultCard.Fusions.length; k++) {
+                        var card3 = cards.find((c) => c.Id === fusionResultCard.Fusions[k]._card2);
+
+                        if (card3) {
+                            var card3FusionResult = getCardById(fusionResultCard.Fusions[k]._result);
+
+                            fuses = [];
+                            fuses.push({ card1, card2, card3, result: card3FusionResult });
+                            console.log('fuses', fuses);
+                        }
+                    }
+
+
+                    // var card3 = cards.find((c) => fusionResultCardNestedFusionCards.indexOf(c.Id) > -1)
+                    // console.log('card3', card3);
+
+                    // if (card3) {
+                        // fuses = [];
+                        // fuses.push({ card1, card2, card3, result: fusionResultCard });
+                    // }
                 }
             }
             var equip = card1Equips.find((e) => e === card2.Id);
