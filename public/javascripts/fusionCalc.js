@@ -108,7 +108,16 @@ function findFusions() {
             var fusion = card1Fuses.find((f) => f.card === card2.Id);
             if (fusion) {
                 console.log('Found card fusion', fusion);
-                fuses.push({ card1: card1, card2: card2, result: getCardById(fusion.result) });
+                var fusionResultCard = getCardById(fusion.result);
+                fuses.push({ card1: card1, card2: card2, result: fusionResultCard });
+
+                // If there is a fusion result, continue to search if the result can be fusioned again
+                for (k = i + 1; k < cards.length; k++) {
+                    var card3 = cards[k];
+                    var fusionResultCardFuses = fusionsList[fusion.result];
+                    var card3Fusion = fusionResultCardFuses.find((f) => f.card === fusion.result);
+                    console.log('Card 3 fusion', card3Fusion);
+                }
             }
             var equip = card1Equips.find((e) => e === card2.Id);
             if (equip) {
