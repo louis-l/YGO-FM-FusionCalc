@@ -193,6 +193,7 @@ $('#cleanUpBtn').on('click', function () {
     }
 
     currentHandCards.filter(Boolean).forEach((name, handIndex) => {
-        $("#hand" + handIndex + 1).val(name).change();
+        var handleInputId = handIndex + 1;
+        $("#hand" + handleInputId).val(name).change();
     });
 });
