@@ -184,33 +184,15 @@ $("#resetBtn").on("click", function () {
     inputsClear();
 });
 
-function fillCardNameInFirstEmptySlot(name) {
-    for (i = 1; i <= 5; i++) {
-        var $handleInput = $("#hand" + i);
-
-        if (!$handleInput.val()) {
-            $handleInput.val(name);
-            break;
-        }
-    }
-}
-
 $('#cleanUpBtn').on('click', function () {
+    var currentHandCards = [];
+
     // Only clean the 5 cards on hand
-    for (i = 1; i <= 5; i++) {
-        var $handleInput = $("#hand" + i);
-        var handCardName = $handleInput.val();
-
-        if (!handCardName) {
-            continue;
-        }
-
-        fillCardNameInFirstEmptySlot(handCardName);
-        $handleInput.val('');
+    for (var i = 1; i <= 5; i++) {
+        currentHandCards.push($("#hand" + i).val());
     }
-    
-    // Trigger change to clean up the old data
-    for (i = 1; i <= 5; i++) {
-        $("#hand" + i).change();
-    }
+
+    currentHandCards.filter(Boolean).forEach((name, handIndex) => {
+        $("#hand" + handIndex + 1).val(name).change();
+    });
 });
