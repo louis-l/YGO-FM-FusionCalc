@@ -191,9 +191,14 @@ $('#cleanUpBtn').on('click', function () {
     for (var i = 1; i <= 5; i++) {
         currentHandCards.push($("#hand" + i).val());
     }
+    
+    resultsClear();
+    inputsClear();
 
-    currentHandCards.filter(Boolean).forEach((name, handIndex) => {
-        var handleInputId = handIndex + 1;
-        $("#hand" + handleInputId).val(name).change();
-    });
+    setTimeout(function () {
+        currentHandCards.filter(Boolean).forEach((name, handIndex) => {
+            var handleInputId = handIndex + 1;
+            $("#hand" + handleInputId).val(name).change();
+        });
+    }, 500);
 });
