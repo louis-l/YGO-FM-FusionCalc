@@ -22,13 +22,13 @@ function fusesToHTML(fuselist) {
     return fuselist
         .map(function (fusion) {
             var res =
-                "<div class='result-div'><ul style=\" padding-left: 32px; margin: 0 0 4px 0; \"><li>Input: " +
+                "<div class='result-div text-sm'><ul class=\"list-decimal pl-8 mb-2\" style=\" padding-left: 32px; margin: 0 0 4px 0; \"><li data-card-input-id=\""+ fusion.card1._input_hand_id +"\">Input: " +
                 '<b>'+ fusion.card1.Name +'</b>' +
-                "</li><li>Input: " +
+                "</li><li data-card-input-id=\""+ fusion.card2._input_hand_id +"\">Input: " +
                 '<b>'+ fusion.card2.Name +'</b>' + '</li>';
 
             if (fusion.card3) {
-                res += "<li>Input: " + '<b>'+ fusion.card3.Name +'</b>';
+                res += "<li data-card-input-id=\""+ fusion.card3._input_hand_id +"\">Input: " + '<b>'+ fusion.card3.Name +'</b>';
                 res += '</li>';
             }
 
@@ -36,7 +36,7 @@ function fusesToHTML(fuselist) {
 
             if (fusion.result) {
                 // Equips and Results don't have a result field
-                res += "<div style=\" font-weight: bold; margin-bottom: 5px; margin-left: 14px; \">Result: <span style=\"color: blue;\">" + fusion.result.Name + '</span>';
+                res += "<div style=\" font-weight: bold; margin-bottom: 5px; margin-left: 14px; \">Result: <span class=\"card-fusion-name text-blue-500\">" + fusion.result.Name + '</span>';
                 if (isMonster(fusion.result)) {
                     res += " " + formatStats(fusion.result.Attack, fusion.result.Defense);
                 } else {
@@ -44,6 +44,11 @@ function fusesToHTML(fuselist) {
                 }
                 res += '</div>';
             }
+
+            res += '<div class="flex items-center">';
+            res += '<button type="button" class="fuse-btn bg-indigo-500 text-white active:bg-indigo-600 font-bold uppercase text-xs px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150">Fuse</button>';
+            res += '</div>';
+
             return res + "</div>";
         })
         .join("\n");
@@ -100,6 +105,7 @@ function findFusions() {
         if (card) {
             // Because i starts from 1, so 5 is the first 1/2
             card._is_on_hand = i <= TOTAL_CARDS_ON_HAND;
+            card._input_hand_id = i;
             cards.push(card);
         }
     }
@@ -198,6 +204,9 @@ for (i = 1; i <= (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); i++) {
 }
 
 $("#resetBtn").on("click", function () {
+    if (!window.confirm('Are you sure you want to reset all cards')) {
+        return;
+    }
     resultsClear();
     inputsClear(false);
 });
@@ -219,4 +228,26 @@ $('#cleanUpBtn').on('click', function () {
             $("#hand" + handleInputId).val(name).change();
         });
     }, 500);
+});
+
+$(document).on('click', '.fuse-btn', function () {
+    var $result = $(this).closest('.result-div');
+    var resultCardName = $result.find('.card-fusion-name').text().trim();
+
+    // Fill the result card into the next available played card slot
+    for (var i = 6; i <= 10; i++) {
+        var $playedCardSlot = $('#hand' + i);
+
+        if ($playedCardSlot.val()) { 
+            continue;
+        }
+
+        $playedCardSlot.val(resultCardName).change();
+        break;
+    }
+
+    $result.find('li').each(function () {
+        var cardInputId = $(this).attr('data-card-input-id');
+        $('#hand' + cardInputId).val('').change();
+    });
 });

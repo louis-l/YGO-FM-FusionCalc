@@ -19,6 +19,9 @@
         <link rel="stylesheet" type="text/css" href="public/styles/home.css" />
         <link rel="stylesheet" type="text/css" href="public/styles/fusioncustom.css" />
         <link rel="stylesheet" type="text/css" href="public/styles/awesomplete.css" />
+
+        <!-- Include CDN JavaScript -->
+        <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
     </head>
     <body class="bg-dark d-flex flex-column min-vh-100 polymerization">
         <header class="navbar navbar-expand-lg navbar-light bg-light flex-column flex-md-row">
@@ -97,13 +100,18 @@
                                 <input type="search" id="hand10" placeholder="Hand 10" /><span id="hand10-info" class="ml-2"></span
                                 ><br />
                             </div>
+                            
                             <br />
-                            <button type="button" class="btn btn-danger mt-4" id="resetBtn">
-                                Reset All
-                            </button>
-                            <button type="button" class="btn btn-danger mt-4" id="cleanUpBtn">
-                                Clean up cards
-                            </button>
+                            <br />
+
+                            <div class="flex items-center justify-between">
+                                <button type="button" class="btn btn-primary" id="cleanUpBtn">
+                                    Clean up cards
+                                </button>
+                                <button type="button" class="btn btn-danger" id="resetBtn">
+                                    Reset All
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -113,12 +121,12 @@
                 <div class="col">
                     <h4 class="text-center my-4 text-main">RESULTS<span id="search-msg"></span></h4>
 
-                    <div class="row">
-                        <div class="col-sm">
+                    <div class="flex -mx-8">
+                        <div class="w-3/5 px-8">
                             <div id="outputarealeft"></div>
                         </div>
 
-                        <div class="col-sm">
+                        <div class="w-2/5 px-8">
                             <div id="outputarearight"></div>
                         </div>
                     </div>
@@ -163,6 +171,6 @@
         <script type="text/javascript" src="data/fusions.js"></script>
         <script type="text/javascript" src="data/equips.js"></script>
         <script type="text/javascript" src="data/types_and_stars.js"></script>
-        <script type="text/javascript" src="public/javascripts/fusionCalc.js"></script>
+        <script type="text/javascript" src="public/javascripts/fusionCalc.js?123456789"></script>
     </body>
 </html>
