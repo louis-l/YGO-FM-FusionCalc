@@ -250,4 +250,6 @@ $(document).on('click', '.fuse-btn', function () {
         var cardInputId = $(this).attr('data-card-input-id');
         $('#hand' + cardInputId).val('').change();
     });
+
+    $('#cleanUpBtn').click();
 });
