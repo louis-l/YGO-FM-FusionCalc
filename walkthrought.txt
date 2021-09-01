@@ -1,0 +1,3859 @@
+*****************************************************
+             Yu-Gi-Oh! Forbidden Memories
+                    Playstation 1
+                   FAQ/Walkthrough
+                Version: Final  6/24/03
+
+   By: nnguyen11490 Email:nnguyen11490@yahoo.com
+
+*****************************************************
+ _    _                _____
+| |  | |              / _____\           ____   _
+| |  | |             | /        _       / __ \ / \
+| \__| | _    _      | |   ___ / \     | /  \ || |____
+ \___, || |  | | ___ | |  |_  || | ___ | |  | || ,__  \
+  ___/ /| \__| ||___|| \____/ /| ||___|| \__/ || |  | |
+ |____/  \___,_|      \______/ \_/      \____/ \_/  \_/
+                                      By: nnguyen11490
+
+Copyrighted 2002 nnguyen11490. None of this writing may be reproduce in
+any way without the writer's permission. This FAQ is for personal use only.
+If you want to put this FAQ on your website, magazine, etc email me first.
+You might or will be sue if you don't have my permission!!! Remember
+Have you played Yu-Gi-Oh! Forbidden Memories?
+
+YES
+NO
+plagiarism is a crime that will be punished.
+
+"Yu-Gi-Oh! Forbidden Memories" ¿ Konami 1996
+
+==================
+Table of Content
+==================
+
+1. Versions (Updates)
+2. About the Author
+3. About Walkthrough
+4. Characters
+5. Story
+6. Basic Control
+   I. In duel controls
+7. Game
+8. How to Play
+   I. Life Points
+   II. Attack/Defense
+   III. Face up/down
+   IV. Fusion
+   V. Trap and Magic
+   VI. Ritual
+   VII. Guardian Stars
+   VIII. Type
+   IX. Kinds of Monster
+   X. How to Build a Deck
+9. Walkthrough
+   I. Simple Duel
+   II. Normal Duel
+   III. Hard Duels
+   IV. Duels of Champion
+10. Rare Cards Location
+11. Ritual Cards
+14. 50 Card Duel Statistics
+15. Fushion
+    I. Magic and Traps
+    II. Monster
+16. Card List
+   I. Cards #001-299
+   II. Cards #300-599
+   III. Cards #600-722
+17. Tips/Tricks
+18. Q&A
+19. Credits
+    I. Rare Cards Location Credits
+    II. Duel Statistic Credits
+    III. Fixing the FAQ Credits
+    IX. Card List Credits
+20. Contact Information
+
+===============
+Version
+===============
+
+1.0 (7/30/02): First version.
+Added some rare cards that I found trough out the game.
+Added more details about how to play.
+
+1.1 (8/2/02) Second Version
+Thank you Taothao for adding in Seto 2nd.
+Added a little more for the how to duel section.
+Add more tips for how to get rare cards.
+
+1.2 (8/4/02) More updates for the FAQ
+Finally out of 28 duels I finally got all of Seto 2nd cards.
+Added strategy for Seto 2nd.
+Added some more rare cards. Thanks BJohnson for letting me use some
+password.
+Added the way to go out the Labyrinth.
+Added where to get the map to duel mages.
+Added the a little bit for the story section. (may contain spoiler)
+Added how to use a ritual card in the how to play section.
+
+1.3 (8/5/02) After many duels I figure out where to get more card.
+Added a whole bunch of rare cards.
+Added the regular game control.
+Added a lot more for the story section.
+After 106 harsh duels I finally figure out what to sacrifice. Look in
+the new ritual section to see some ritual cards.
+I will add more ritual as soon as I can figure them out.
+Add more strategy against Simon Muran, Yami Bakura and Isis.
+
+1.4 (8/7/02) I know I've been updating this FAQ a lot.
+Thank you ngcheechong for helping me complete the ritual section.
+The ritual section is now fully complete.
+Added more for the story.
+Thanks aj for giving me some info.
+Added some question people have been asking me.
+Thanks Hazardous87 for adding Skull Knight to the rare card section.
+Added a couple of more rare cards.
+
+1.5 Another Update Coming (8/11/02)
+Thanks Azn Dragons for adding in some cards to the rare cards section.
+Also thank finalfantasypyro for adding in two new cards.
+Fixing some of my mistakes.
+Sorry at the Walkthrough section I forgot to add Sebek and Neku in.
+Added Sebek and Neku.
+Added a little bit for the story.
+Added some question that people has been emailing me.
+
+1.6 (8/17/02) Finally after days of intense dueling I have started
+the 50 cards statistic section.
+Thanks ngcheechong for letting me use his 50 duel statistic.
+Added a couple of card statistic about some characters.
+Added more question people have been asking me.
+Added a couple of more rare cards.
+Thanks again Taothao for fixing my mistake again.
+Add contacts section.
+Thanks Striderneo15 for fixing Isis.
+Thanks all the people that email for giving more strategy.
+Added how to build a deck to the how to play section.
+Add a little bit for the copyright.
+Add the ASCII art by me.
+Added how to build a deck for the how to play section.
+
+1.7 (8/23/02) More updates to improve the FAQ.
+Thanks novastrike81 for adding Twin Headed Thunder Dragon to the FAQ.
+I fix some mistake I made in the FAQ.
+Added one missing ritual. The Hamburger Recipe.
+Add a little bit to the ritual section.
+Add the type to the how to play section.
+Added some question people have been asking me.
+Added some cards for the rare card location section.
+Thanks keldonwarlord006 for fixing my mistake about Meteor B. Dragon.
+Thanks RedZero99 for adding two new cards to the rare card location.
+
+1.8 (9/2/02) More information to make this the best Yu-Gi-Oh FM FAQ ever
+Thanks world_champion for adding more duel statistic.
+Let Ign.com and DuelMasterNG website post the FAQ.
+Added some missing ritual.
+Fix some of my mistake.
+Added the secret on how to duplicate card in the new tips and trik section.
+Added all piece of Exodia to the Rare Cards Location of the FAQ.
+Add the new ASCII art at the bottom of the FAQ.
+I go through the FAQ and make it look better.
+Added the monster kind for the How to Play section.
+Thank you liquidsnake741 for adding Seto 1 to the Duel Statistic Section.
+Fix up the credit section to make it better to read.
+Add some more question.
+Thanks danielw123456 for fixing my mistake.
+Got started on the fushion section.
+Added all the magic fushion I know.
+Add more for the story section.
+Thanks shortymjh for giving me some password.
+
+1.9 (9/26/02) Another update
+Complete the Story Section
+Add another way you can contact me.
+Fix the About the Aurthor Section.
+Fix some typos.
+Thanks kyokusangi for adding Low Meadow Mage to the statistic.
+Fix up the duel statistic.
+Added more duel statistic.
+Added the complete card list of every cards. Thank you Ngheechong for helping me out
+with cards #221-722.
+Add more strategy for Seto 1.
+
+FINAL (6-24-03) Last Update
+As if the time this FAQ will get update it will be the final update I will
+make for this FAQ. Note, there is a chance of me updating it again and adding
+new things to it if I find anything missing.
+
+- Fix up some errors
+- Update Contact Information
+
+=========================
+About the Author
+=========================
+
+  Another FAQ from me. Suppose you want to know why I write FAQs.
+First reason is I want to help people and the other reason is there is
+nothing to do at that time. Some of my FAQs and walkthrough can be
+found at neoseeker.com, gamefaqs.com, psxcodez.com, and my website
+nnguyen11490.tripod.com. If you see a mistake or want to add a card
+please contact me.
+
+=======================
+About Walkthrough
+=======================
+
+   For those who just bought the game this walkthrough will teach you
+everything you need to know about the game. It will have Basic Control,
+Characters, How to Duel, Rare Cards location and more. If you have any
+question or comments feel free to email me.
+
+PS. All of your question and answer will be posted in the Q&A section.
+
+======================
+Basic Control
+======================
+Duel Control: From the Manual
+
+D-Pad Right, Left
+Select face-up/face-down
+
+D-Pad Up, Down
+Attach/Remove Combo candidate Tag
+
+Circle
+Cancel
+
+X
+* Enter Card selected to play
+* Enter Battle (Can't see monster in 3-d)
+
+Triangle
+See card detail
+
+Square
+* Enter card selected for play
+* Enter battle (also let you see monster in 3-d)
+
+L1
+Switch to Defense or Attack
+
+R1
+Switch to Defense or Attack
+
+L2/R2
+View Field
+
+Start
+End your turn
+
+============
+Game
+============
+
+Save/Load
+   If you already have a previous file then load. Save often because if
+you loose 1 duel in Campaign Mode its game over.
+
+Trade
+   Trade card with someone to help you in the game.
+
+2P Duel
+   Duel with another player.
+
+Campaign
+   Campaign Mode is the main story mode. In Campaign Mode, the game
+progresses as you move on the Map Screen and Duel with people.
+
+Free Duel
+   This mode allows you to duel with the people you beat in Campaign
+Mode. Duel in Free Duel a lot to get some good cards.
+
+Password
+   This allows you to enter passwords to buy card with star chip.
+
+Card Library
+   You can go to Card Library to view all the card you have collected.
+There are 722 cards, collect them all.
+
+===================
+How to Play
+====================
+
+A Card should look like this:
+-----6-------5---7- 1. Monster Picture
+| --------------  | 2. Description
+| |             | | 3. Attack Point
+| | 1           | | 4. Defense Point
+| |             | | 5. Level (count the stars)
+| |-------------| | 6. Monster name
+|                 | 7. Type
+| 8               | 8. Kind
+|   2             |
+|               3 |
+|               4 |
+-------------------
+
+Life Points
+   Each player begins with 8000 life points. To win a duel you must
+make your opponent life points zero. There are three ways to make there
+life point lower, first way is to destroy an opponent monster that's in
+attack mode. The second way is to attack you opponent field, and the
+last way is to have a higher defense point than the opponent attack
+point. To attack you opponent field your opponent must not have a
+monster on the field. Actually there is another way. There are some
+magic card the can get rid of life point.
+
+Attack/Defense
+   There are two position that you can put your card in attack and
+defense. To destroy a monster in attack mode your card must have a
+higher attack point than your opponent. When a monster in attack mode
+is destroy, the difference of the attack point is subtracted from the
+loser life points. In case your wondering if the attack point is the
+same both card will be destroy and no damage will be subtracted from
+you life point. If the card is in defense mode and you destroy the card
+no damage is taken away from the life point. Same as attack mode when
+a monster is in defense and you want to destroy it your attack point
+must be higher than your opponent monster defense point. But if their
+defense point is higher than your attack point it will hurt your life
+point.
+
+Face up/down
+   When you pick a card in you hand you have a choice of putting it
+face up or down. If you put it face down your opponent can't see the
+card so he doesn't know what to do. Only put card face up if there
+really strong. When you put it face down and you attack the card will
+be turn over. You can also try to trick your opponent by having a
+strong card face down and your opponent will attack it, he'll hurt
+himself.
+
+Fusion
+   Fusion means combining two monster together to make an strong
+monster. Keep in mind that only some monster can be fush. There are a
+lot of kinds of fusing you should try a lot of fusing before going
+into a tough duel.
+
+Trap/Magic Card
+   There are some magic cards that will change the field and will always
+power up a monster that has the same elemental. For example if the
+field is meadow all warrior monster will be power up. Other magic card
+can only be equip with a monster to make it stronger. The name said it
+all. Trap card are card that you always put face down for it to work.
+When your opponent did something wrong the card will automatically be
+activated.
+Note: All trap cards only works when face down.
+
+Ritual Card
+   What is a ritual card? A ritual card that is use to sacrifice three
+monster and sent out an ultimate monster. To use a ritual card you
+need to know what card you need to sacrifice. For example to get Blue
+Eyes Ultimate Dragon you need three Blue Eyes White Dragon on the field
+and then use the ritual card to summon Blue Eyes Ultimate Dragon. Look
+in the ritual section to see some ritual.
+
+Guardian Star
+   The thing that set the game apart from the show is the Guardian Star
+Each monster always has two different kinds on Guardian Star.
+Guardian Star is kinda like rock, paper, and scissor. For example
+you pick sun and your opponent has a moon, your monster will be power
+up. Here's a list of all Guardian Star:
+
+Sun - Moon
+Moon - Venus
+Venus - Mercury
+Mercury - Sun
+Saturn - Uranus
+Uranus - Pluto
+Pluto - Neptune
+Neptune - Mars
+Mars - Jupiter
+Jupiter - Saturn
+
+Type
+   What is the monster type for? Well it's to see if you can power up
+Your monster with mountain, sogen, and other elemental magic cards.
+There are a lot of different type here's what they are and what can power
+them up.
+
+Dragon Mountain
+Pryro depends
+Dark Yami
+Earth depends
+Water Umi
+
+Kinds of Monster
+   Now that you know the type it's time to learn the different kinds of
+monster they have. The kinds of monster is just like the type. Why because
+you need to know the kind of monster inorder to power the monster up.
+There are 20 kinds, here's all of them:
+
+Winged Beast
+Spellcaster
+Fish
+Thunder
+Zombie
+Machine
+Rock
+Beast Warrior
+Insect
+Fairy
+Sea Serpent
+Beast
+Reptile
+Fiend
+Plant
+Dinosaur
+Pyro
+Warrior
+Aqua
+Dragon
+
+How to Build a Deck
+   A deck can have 40 cards. It can contain monster, magic, trap cards.
+To have the best deck you should try to use the cards you can and know
+what to fuse with. You should also have at least 5 magic cards. Because
+you need it to power up your monster. Have at least 5 trap cards so it will
+be easier to take out a strong monster. Once you get really strong monster
+you can put the sucky ones out. Overall you should have at least 5 magic cards
+5 trap card.
+
+======================
+Characters
+======================
+
+This is what it said in the manual:
+
+The Hero (depend on what you name him)
+Prince of the Amehotep Dynasty
+
+Teana
+Hero's card playing friend.
+
+Jono
+Hero's card playing friend.
+
+Simon Muran
+Hero's tutor, attendant, and card mentor.
+
+Seto
+Heinshi's second in command and Hero's rival.
+
+Heishin
+High Mage of the Amenhotep Dynasty with something up his sleeve.
+
+===============
+Story
+===============
+MAY CONTAIN SPOILER!!! READ AT YOUR OWN RISK
+
+   The story begins in ancient Egypt where a young prince of the Amenhotep
+Dynasty that's want to play cards. Everything was fine until one of the
+Amenhotep Dynasty dynasty High Mage Heishin, wants to have all the
+Millennium Items. Heishin stole all Millennium Items but one, the
+Millennium Puzzle. The prince mentor Simon has the Millennium Puzzle and
+he gave it to the prince to protected it. The prince fell to escape and he
+has to duel Heishin to get the Millennium Items back. But he lost the
+duel. His mentor Simon asked him to destroy the Millennium Puzzle and he
+did, but the problem is that they both got stuck in it.
+
+   Many years later a boy named Yugi, who now has the Millennium Puzzle
+enter in a tournament. After defeating Rex Raptor, Mai Valentine,
+Bandit Keith, Yugi met a guy with another millennium item whose name is
+Shadi. Shadi said that he's here because Yugi's Millennium Item is
+summoning him. Shadi use his Millennium Key to open up Yugi's mind. Yugi
+met the other version of himself Yami Yugi. Yami Yugi gave Yugi five
+blank card. Later Yugi realize that he has to duel Shadi in the
+tournament. After defeating Shadi suddenly Shadi's Millennium Keys got
+suck up in one of the card. Yugi realize that he must get all Millennium
+items to Yami Yugi, which is the prince. After getting Bakura's
+Millennium Ring, Pegasus's Millennium Eye, Isis's Millennium Necklace, and
+Kaiba's Millennium Rod Yugi is able to bring the prince back to his old
+home.
+
+   Once the young prince got back he realize that Heishin has taken over
+his land. He headed over to the King's Valley in seek of the Forbidden
+Ruin. Once he got there a man asked him what he is doing here. The man
+realize that he was the prince and offer him his help. The prince ask
+the prince ask where is the Forbidden Ruin, but the man does not no
+where is it located. The Prince return to the Pharaoh Palace to see
+what's left of it. Suddenly a Mage Soldier shows up and challenge him
+to a duel. After defeating him in the duel the prince head up to his
+mentor room. He search the place and found a map. It was the map to the
+where the Millenuim Items was hidden. He head back to the kings Valley
+and gave the man the map. The man took him to the Forbidden Ruin where
+he saw a map of all the Millennium Items location. Suddenly Seto show up.
+He told tyhe prince that the map show where to get all Millenuim Items that
+Heishin hidden. He also told the prince that he was trying to  stop Heishin
+himself. Now the prince realize that he must gather all the hidden Millenuim
+Items inorder to save his land.
+
+   After defeating High mage Secmeton, Anubisius, Atenza, Martis, and Kepura
+the young prince finnally got all of the Millenuim Items. He heads to the
+Dueling Ground to talk to his friends. But suddenly, Jono inform the prince
+that Teana has been kidnap by Seto. Jono took the prince to Heishin's place.
+But then a mage shows up. It was the LAbyrinth mage, and he challenge the
+prince into a duel. After defeating the Labyrinth Mage the prince must nw find
+the right way out of the labyrinth. The prince go right, right, left, and right
+and he finally got out. "There he is!" It was Seto 3 with Teana.
+
+   "Ah, the hostage... You can have her back. I didn't use her as bait to take
+your precious item... I did it so I could guide you to Heishin's chambers. You'll
+find him in the temple ahead. Face him! Defeat him!" said Seto.
+
+"Don't trust him: replied Jono.
+
+"Come on prince I'm giving you a chance to face Heishin right now."
+
+   The prince except the offer. Seto warn the prince that there will be Heishin
+guard up a head... The prince walk down the chamber until...Suddenly two guys
+jumped up. They challenge the prince to a duel. After defeating Sebek and Neku
+the prince continue ahead to Heishin room.
+
+   " Its been sometime since last we met, boy! I salute you for making it this far...
+But it all ends here. I haven't come this far to be beaten by a child!!!" said Heishin.
+
+   After the prince defeated him Seto showed up. He took the prince with him to the
+Forbidden Ruin, but then...
+
+   "I will defeat you once and for all. And all the items will be mine! Don't looks to
+surprised... I only helped you because I needed you for my plans. I served Heishin as
+his right hand man in hopes of stealing the Millenium Items one day.  And then you came
+along. You found the temple, and you won each of the precious items...... Saving me
+the trouble of doing it myself!!! In short, you were nothing more then a pawn in my
+designs! I could never allow lowly humans such as you or Heishin to take those items...
+They belong to the Highborn... They can only be held by a noble... One such as myself.
+This place is home to my forefathers... The royal tomb of those who prospered wielding
+the dark  power... Do you know why this place is Forbidden Ruins? It is because of...
+ THIS!!! The Millenium Items represent a pact... an agreement for tapping the powers of
+Darkness. The ancients kings and sorcerers gain supreme power from the Dark Lord And
+now I intend to summon him... Here, to these very chambers... I will renew that pact,
+and regain the power to rule over all!!! And now... The final battle! I will eliminate
+you once and for all. The items shall be mine!!!"
+
+   Just when he though it was over Heishin showed up. "Hold it right there!!! If you wish
+to let Seto live, Hand over the Millenium Items. Did you think me foolish enough to fall
+or this cretin's ploy? I've know he descended from the Dark household for some time now.
+I closed my eyes to his treachery, and staged my defeat so I could discover his true
+intentions! Perhaps you thought me senile? Blind to your pitiful plans? Thanks to you,
+I now stand in the Forbidden Chamber that can only be opened by one of the dark."
+
+Heishin used the Millenium Items and unlockthe evil monster...DarkNite.
+
+"Hehehe... I return after thousands of years, and what do i find...? You command me to
+what? ".
+
+Heishin try to control DarkNite but he will not listen to his order. Instead DarkNite
+captures Heishin soul into a card a burn it! Now that Heishin is gone it's all up to
+the young prince to sent this evil creature back to where it came from. DarkNite agree
+if the princee beat him in a duel he will go back where he came from.
+
+The prince has won!!! But suddenly something happen... DarkNite has now transform into
+his ultimate form...NiteMare. He challenge the prince to another duel. It's all up to
+the prince in this last duel ever.
+
+After the prince defeeat NiteMare, Seto left the ruin never to be seen again. And the
+prince finnaly gets his land back. The Forbidden Memories was buried so no one can
+unleash the monster again, and the prince turns out to be the greatest pharaoh Egypt
+has ever had...
+
+=====================
+Walkthrough
+=====================
+   Here's how I'm going to write the duels in.
+Legend:
+Duel #
+Name:
+AMA: (Average Monster Attack)
+Strategy:
+
+-----------------------------------------------------------------
+Simple Duels
+-----------------------------------------------------------------
+
+Duel #1
+Simon Muran (optional)
+AMA: 200-500
+   You guess it, it's your teacher. He might teach you how to duel but
+he isn't that hard. Before beating him try fusioning some monster. If
+you're having trouble (which you shouldn't because he always put
+monster in defense mode) with him try dueling Duel Master K in Free
+Duel.
+
+Duel #2
+Teana (optional)
+AMA: 300-500
+   She is a little harder than Simon Muran but still no prob. All she
+do is put monster in defense mode. Learn your fusion when fighting
+her because the duels after this will be a little bit challenging. Duel
+her a lot in Free Duel to get some nice card. Another simple duel.
+
+Duel #3
+Jono
+AMA: 200-1600
+   This guy Fush sometime but not a lot. You should try to finish him
+off before he fuses.
+
+Note: Duel him a lot because he has the Time Wizard card. It will make
+any dragon into a Thousand Dragon (2400/1800).
+
+Duel #4
+Villager #1 (optional)
+AMA: 500-900
+   The duel are getting a little tougher now. If you don't be careful
+he'll defeat you. You should know your Fusion pretty well by now.
+You'll be all right with this guy.
+
+Duel #5
+Villager #2 (optional)
+AMA: 700-1800
+   I suggest you duel Jono in free duel to get Time Wizard before
+dueling this guy because he can fush Pumpkin King of Ghost (1800/2000),
+he also use Dragon Zombie sometime (1600/0) so be careful. If you can't
+beat him you don't have duel him, he's optional.
+
+Duel #6
+Villager #3
+AMA: 800-1800
+   He's not more challenging than Villager #2 but he still have some
+good cards up his sleeve. If you have Time Wizard from Jono fush it
+with any dragon to make Thousand Dragon (2400/1800). If you have
+Thousand dragon then this battle is a cinch.
+
+Duel #7
+Seto 1st
+AMA: 800-2300 (rarely)
+   As most of you know he can be very tough at the beginning of the game.
+If you think he doesn't have strong monster then your wrong. He doesn't
+have good cards but he can fuse for some. But that's what I'm here for.
+If you have at least 2 Time Wizard then you got nothing to worry about.
+Just fuse it with any dragon monster to create Thousand Dragon
+(2400/1800). But the thing to worry about is his fushion. He can fuse
+Ushi Uni (2150/1950). Are you scare yet? If you think that's his strongest
+card you're in for a suprize. For he got Gaia the Fierce Knight (2300/2100)!
+But it's still no problem if you have Thousand Dragon. Check below for how
+to fuse Thousand Dragon. Check my Seto 1 FAQ for more information on him.
+
+Duel #8
+Heinshi 1st
+AMA: 2600-3500
+   3500!!! There is no way you can beat this guy so just lose on
+purpose. But don't worry when you get some strong card you can
+challenge him again in free duel.
+
+Congrats now onto LV.2
+Note: fighting in the tournament duel in Free Duel and see if you can
+ fusion Twin Headed Thunder Dragon (2800/1800)
+
+-----------------------------------------------------------------
+Normal Duels
+-----------------------------------------------------------------
+
+Duel #9
+Rex Raptor
+AMA: 1000-1800
+   This guy isn't challenging if you can make Twin Headed Thunder Dragon.
+Your card should be around 600-2000 by now. When you beat him he might
+give you a very strong cards like D. Dragon Jungle King, and Crawling Dragon.
+
+Note: Fush Crawling Dragon with any electric monster to make Twin
+Headed Thunder Dragon.
+
+Duel #10
+Weevil Underwood
+AMA: 1200-2600
+   I only see him use Kwarga Hercules but my brother said he use Great
+Moth so I'm not sure about this one. You should be able to make Twin
+Headed Thunder right now so there is nothing to worry about. Duel him
+in Free Duel to get some nice insect card.
+
+Duel #11
+Mai Valentine
+AMA: 1500-2000
+   She got a few cards to worry about, Aqua Dragon (2250/1900), Harpies
+Pet Dragon (2000/2500) (rarely use it), Battale Ox (1700/1000), The Bistro
+Butcher (1800/1000) and the rest of her cards are over 1500. If your lucky
+and get to fush Twin Headed Thunder Dragon then you'll be alright.
+After Mai duel go to Free Duel and duel Rex Raptor for another Crawling
+Dragon, because you need a lot of Twin Headed Thunder Dragon.
+
+Duel #12
+Bandit Keith
+AMA: 1600-2400
+   If you don't have some good cards then I suggest you go duel in Free
+Duel because this guy is tough. He will fush strong cards like Flame
+Cerebus (2100/1800), The Bistro Butcher (1800/1000). Just try to fush a
+couple of Twin Headed and you'll be fine.
+
+Duel #13
+Shadi
+AMA: 1000-2000
+   The only thing to worry about is his magic cards. He has this card
+called Spell Binding Circle that can lower any monster attack down by
+500. Otherwise he shouldn't be very challenging. Duel him again for some
+magic card.
+
+Duel #14
+Yami Bakura
+AMA: 1000-2000
+   Just like Shadi he used the same magic card Spell Binding Circle to
+lower monsters attack down by 500, but he also has Labyrinth Wall (0/3000)
+and Millennium Shield (0/3000) so you better have some Dark Hole or
+Raigeki in your deck. Other than that he's harmless.
+
+Duel #15
+Pegasus
+AMA: 1800-3500 (rarely)
+   This guy is very tough. The has a very strong card Meteor B. Dragon
+(3500-2100) but don't worry he rarely use it. He also has a lot of
+Trap cards to like Raigeki (destroy all of your monster) and Dragon
+Capture Jar (captures all dragons on the field. I suggest you go to
+Free Duel and get some good card before dueling this guy. You must try
+to defeat him fast or else he'll bring out Dragon Capture Jar or Meteor
+Black Dragon. Once you defeat him Duel him again for his Dragon Capture
+Jar it'll come very handy later on. Congrats you just won a very tough
+duel.
+
+Duel #16
+Isis
+AMA: 1800-3200 (with Umi)
+   Isis is just like Shadi and Yami Bakura, she'll use a lot of magic
+cards to win. Just watch out for Sword of Revealing Light (flip all
+you face down card up and make you can't attack for three turns) and
+that spell that lower you attack and defense down by 500. When ever
+she use Umi change the field to something else fast or else her
+monster can be up to 2750! After the duel, duel her in free duel to
+get some magic and trap card.
+
+Duel #17
+Kaiba
+AMA: 2000-3000
+   And you though Pegasus is tough. Before challenging this guy go buy
+a Millennium Shield or a Labyrinth Wall (look in the rare card section
+to find out how to get it), because Kaiba has 3 powerful card, The Blue
+Eyes White Dragon!!! If you manage to get a Dragon Capture Jar then
+consider yourself a winner, if not prepare for your hardest duel yet.
+Just put Millennium Shield or a Labyrinth Wall in defense so his Blue
+Eyes White Dragon can't hurt you, don't underestimate him because he
+has a Crush card that can destroy up to 4 monster on the field. Once
+you beat him try beating him again for his Crush Card. Check out my
+Kaiba FAQ for more info on Kaiba.
+
+  Now the Duels will get very tough I suggest you duel everybody 50
+times to get some good card. All these duel you can fight them any way
+you want. But I highly recommend you fight them in this order.
+
+-----------------------------------------------------------------
+Hard Duels
+-----------------------------------------------------------------
+
+Before you do anything head over to the Kings Valley. Talk to the guy
+and ask where the Forbidden Ruin is. Now go back to the palace there
+should be a Mage Soldier there. Challenge him to a duel.
+
+Duel #18
+Mage Soldier
+AMA: ?-2800
+   Sorry it's been along time since I duel him, but not to worry the
+only card only should be a afraid of is Twin Headed Thunder Dragon.
+Don't even bother dueling him again because he gives you crappy cards.
+
+After you beat him go inside and search for the map. After you get it
+return to Kings Valley and give it to the guy there. Now your ready to
+duel mages. Before you go duel mages I suggest you head over to the old
+Card Shop. Jono should be there he'll show you where the new one is.
+Duel everybody there first.
+
+Duel #19
+Jono 2nd (optional)
+AMA: 800-2400
+   If you et really lucky he will give you a Red Eyes Black Dragon
+(2400/1800) but he rarely gives it up. It took me 168 duels with him
+just to get one Red Eyes. He is fairly simple you shouldn't have
+trouble dueling him.
+
+Duel #20
+Teana 2nd (optional)
+AMA: 400-2100
+   Not a challenge. She is a little tougher than last time because she
+can fish a Mystical Sand (2100/1600), no prob. She only give you one
+good card. Dein Kento the Cure Master.
+
+Duel #21
+Villager #1 (optional)
+AMA: 400-1600
+   Just like last time he should give you no trouble.
+
+Duel #22
+Villager #2 (optional)
+AMA: 700-1800
+   He is still the same. Just use the same strategy for Villager #1.
+
+Now for the Mages battle. The strategy against all mages is to change
+the field, because they'll change it back.
+
+Duel #23
+Low Meadow Mage
+AMA: 1600-2700 (with Sogen)
+   This guy will gives you some very good cards like Dark Magician
+(2500/2100), Gaia the Fierce Knight (2300/2100), Curse of Dragon
+(2000/1800) and a very strong card Meteor B. Dragon (3500/2000) and
+more!!! So duel him a lot. You should beat this guy without a problem.
+Check out my Low Meadow Mage FAQ for more info on Low Meadow Mage.
+
+Note: After this duel don't go on just go to free duel and duel him
+about 100 time to get very strong cards.
+
+Duel #24
+High Meadow Mage Kepura
+AMA: 2100-4250 (with Sogen)
+   I hope you listen to me because this guy is nearly impossible to
+beat. Why? Because he has 3 Gate Guardian (3750/3400). If you have
+Meteor B. Dragon from low Meadow Mage set it sun so it can destroy
+Gate Guardian. If you manage to win try dueling him again for some rare
+cards. Good Luck!
+
+Duel #25
+Low Desert Mage
+AMA: 1600-2500 (with wasteland)
+   He sometime use Summoned Skull (2500/1200) but this duel should be
+easy for you. All you have to worry about is his Labyrinth Wall
+(0/3000).
+
+Duel #26
+High Desert Mage Martis
+AMA: 2000-3500 (with wasteland)
+   This guy can be a problem because he changes the field to Wasteland
+to make all of his monsters stronger. The strategy against all mage is
+to change the field because they will change it back. Watch out for his
+Labyrinth Wall (0/3500 with Wasteland).
+
+Duel #27
+Low Ocean Mage
+AMA: 2000-3300 (with Umi)
+   This guy shouldn't be any trouble. Why? Because when he use Umi to
+power up his monster Twin Headed Thunder Dragon will also be power up.
+
+Duel #28
+High Ocean Mage Secmeton
+AMA: 2100-3300+ (with Umi)
+   Sorry there's no strategy for this guy. It's been a long time since
+I duel him. Just do the same thing with the other mage, change the
+field.
+
+Duel #29
+Low Mountain Mage
+AMA: 1800-3300 (with Mountain)
+   This is just like the Ocean Mage duel. When he changes the field to
+mountain, it will power up your Twin Headed Thunder Dragon. You should
+win this duel without a problem.
+
+Duel #30
+High Mountain Mage Atenza
+AMA: 2000-3700 (with Mountain)
+   This guy is pretty hard because he can power up his Black Skull
+Dragon to 3700. If you have Meteor B. Dragon set it to sun to destroy
+his Black Skull. His other monster should be around 2800. When you
+manage to beat this guy, duel him again for Harpies Feather Duster.
+
+Duel #31
+Low Forest Mage
+AMA: 2000-3100 (with Forest)
+   The only thing you need to worry about is his Great Moth powered up
+to 3100, other than that he's fairly simple.
+
+Duel #32
+High Forest Mage Anubisius
+AMA: 200-4000 (with Forest)
+   This guy can take you down fast if you let him power up his monsters
+ When he powers up Perfectly Ultimate Great Moth to 4000 change the
+field to something else. You should beat him as fast as possible. Just
+watch out for Perfectly Ultimate Great Moth (3500/3000) and Great Moth
+(2600/2500).
+
+The duel will get very hard from now on. Don't go on until you have a
+lot of trap cards, a lot of power ups, and at least 2 Meteor B. Dragon.
+Trust me they'll use cards up to 4500!
+
+-----------------------------------------------------------------
+Duels of Champion
+-----------------------------------------------------------------
+
+Duel #33
+Labyrinth Mage
+AMA: about 2400-3750
+   The only way to beat his three Gate Guardians (3750/3400) is to have
+Meteor B. Dragon set to Sun, because Sun beats Moon. Other than that
+his card should be around 2400.
+
+In case you can't figure it out. The way to get out of the Labyrinth is
+Right, Right, Left, Right
+
+Duel #34
+Seto 2nd
+AMA: About 2000-3750
+   Ok, there is a strategy to beat this guy. First you better have
+some trap cards ready. All you have to do is set your Meteor B. Dragon
+to Sun when he brings out his Gate Guardian (3750/3400) and you'll be all
+right.
+
+Duel #35
+Neku
+AMA: 2000-3100
+   Since now the field is dark his Zoa will be powered up to 3100 attack points
+so watch out. Just have Meteor B. Dragon and you'll be alright.
+
+Duel #36
+Sebek
+AMA: 2000-3100
+   Same as Neku just watch out for Metalzoa (3000/?) and his powered up Zoa
+(3100/?). He shouldn't a challenge to you if you have Meteor Black Dragon.
+
+Duel #37
+Heinshi 2nd
+AMA: 2600-3750
+   He's back! But only a little tougher than last time. Here's the
+cards you should watch out for three Gate Guardians (3750/3400), three
+Perfectly Ultimate Great Moth (3500/3400), and three Meteor B. Dragon
+(3500/2000) and his Shadow Spell. Try to beat him as fast as you can
+before he brings out his strong card.
+
+Duel #38
+Seto 3rd
+AMA: 2600-4500!!!
+   If you though Heinshi was tough you're in for a surprise. Seto has
+the ultimate card the Blue Eyes Ultimate Dragon (4500/3800)!!! To beat
+this guy you need luck and skill. Use Dragon Capture Jar if you have
+it, to get rid of Ultimate Dragon. He also has three Gate Guardians
+(3750/3400), three Perfectly Ultimate Great Moth (3500/?), three Meteor
+B. Dragon (3500/2000), and a Blue Eyes White Dragon (3000/2500). It will
+take sometime to beat him but if your lucky you'll get the Blue Eyes
+White Dragon. Good Luck!
+
+Duel #39
+Dark Knight
+AMA: 2600-4500
+   Just like Seto he also has the Ultimate Dragon, but this time he
+has of good magic and trap cards. If your lucky and manage to win he'll
+give you very good cards. Sorry there is no strategy for this guy.
+
+Duel #40
+NiteMare
+AMA: 2600-4500
+   Just when you though it's going to be over this guy showed up. Just
+like Dark Knight he also has the Ultimate Dragon and a lot of good trap
+and magic cards. There is no strategy for this guy, Good Luck!!!
+
+Congrats you just beat the game!!!
+
+=========================================
+Rare Cards Location
+=========================================
+
+Legend
+        Monster
+        Attack/Defense: attack and defense power
+        Password: password to get the card
+        Star chip: how much the card will cost
+        Description: The description on the card
+        How to get it:
+
+Tips: Try to beat people in tech S rank you'll will get good cards. You
+can also enter the password but most of the card will cost 999999 star
+chip.
+
+Tech/Pow Rank
+What is Tech and Pow? After every duel you either get tech or Pow rank
+depending on what you do in the duel. Tech mean you don't attack a lot
+and you use a lot of magics and traps card. Pow means you always leave
+your monster in attack mode and don't use magics and trap cards. You
+when you have tech rank you usually get magics or traps card. When you
+get Pow you will usually get monster cards.
+
+Blue Eyes White Dragon
+Type: Dragon
+Attack/Defense: 3000/2500
+Password: 89631139
+Star chip: 99999
+Description: An extremely rare card with unsurpassed attack and defense
+How to get it: Duel Seto 3rd or Darknite to get this rare and powerful
+card.
+
+Blue Eyes Ultimate Dragon
+Type: Dragon
+Attack/Defense: 4500/3800
+Password: 23995346
+Star chip: 99999
+Description: The Ultimate Dragon formed by the fusion of three Blue
+Eyes White Dragon.
+How to get it: You don't duel for this extremely rare card. You need
+three Blue Eyes White Dragon and a dragon ritual to make this beast.
+
+Dark Magician
+Type: Spellcaster
+Attack/Defense: 2500/2100
+Password: 46986414
+Star chip: 99999
+Description: The Ultimate Wizard in term of attack and defense.
+How to get it: I got mine from dueling low Meadow Mage but my brother
+got it from Darknite.
+
+Summon Skull
+Type: Fiend
+Attack/Defense: 2500/1200
+Password: 70781052
+Star chip: 99999
+Description: A fiend with dark power for confusing the enemy. Among
+the Fiend-Type monster, this boasts considerable force.
+How to get it: I heard that you duel High Desert Mage for this but I'm
+not sure.
+
+Judge Man
+Type: Warrior
+Attack/Defense: 2200/1500
+Password: 30113682
+Star chip: 1000
+Description: For this club wielding warrior, there is no other outcome
+to battle than victory or defeat.
+How to get it: Use the password because it only cost 1000 star chip.
+
+Gaia the Fierce Knight
+Type: Warrior
+Attack/Defense: 2300/2100
+Password: 06368038
+Star chip: 99999
+Description: A knight mounted on a horse that travels faster than the
+wind. His battle charge is a force to be reckoned with.
+How to get it: Duel low Meadow mage to get this valuable card.
+
+Gaia the Dragon Champion
+Type: Dragon
+Attack/Defense: 2600/2100
+Password: 66889139
+Star chip: 99999
+Description: A warrior's prowess combines with a dragon's speed to
+create a powerful offensive force.
+How to get it: The only way I know how to get this rare card is to
+fush Gaia the Fierce Knight and Curse of Dragon together.
+
+Curse of Dragon
+Type: Dragon
+Attack/Defense: 2000/1500
+Password: 28279543
+Star chip: 99999
+Description: A wicked dragon that taps dark forces to execute a
+powerful attack.
+How to get it: The low Meadow Mage usually gives this card.
+
+Great Moth
+Type: Insect
+Attack/Defense: 2600/2500
+Password: 14141448
+Star chip: 99999
+Description: A powerful creature of the forest, this huge moth attack
+its enemy by spreading poison dust from its wing.
+How to get it: Sorry I forgot how to get this card.
+
+Perfectly Ultimate Great Moth
+Type: Insect
+Attack/Defense: 3500/3000
+Password: 485793979
+Star chip: 99999
+Description: The final incarnation of the ultimate insect, The Great
+Moth.
+How to get it: Sorry I'm still trying get this card.
+
+Fire Wing Pegasus
+Type: Pyro
+Attack/Defense: 2350/1800
+Password: 27054370
+Star chip: 99999
+Description: A heavenly stallion that flies across the sky on scarlet wings.
+How to get it: Duel Low Meadow Mage for this card.
+
+Thousand Dragon
+Type: Dragon
+Attack/Defense: 2400/2000
+Password: 41462083
+Star chip: 99999
+Description: A dragon that has grown and developed over a thousand
+years.
+How to get it: You don't really duel for this card. Just fush Time
+Wizard and any other dragon under 2400.
+
+Red Eyes Black Dragon
+Type: Dragon
+Attack/Defense: 2400/2000
+Password: 74677422
+Star chip: 99999
+Description: A very rare card with high-level attack factor.
+How o get it: Duel Jono 2nd to get this card.
+
+Twin Headed Thunder Dragon
+Type: Dragon
+Attack/Defense: 2800/2100
+Password: 54752875
+Starchips: 1900
+Description: A Two-Headed Thunder Dragon capable of powerful electric attacks.
+How to get it:  Here are all the people that give me this card. Heinshi 1 and 2,
+Seto 2 and 3.
+
+Black Skull Dragon
+Type: Dragon
+Attack/Defense: 3200/2500
+Password: 11901678
+Star chip: 99999
+Description: A very rare creature from the fusion of an uncommon beast
+and a vicious dragon.
+How to get it: You can't win this card but you can fush Red Eyes Black
+Dragon and Summon Skull to make it.
+
+Roaring Ocean Snake
+Type: Sea Serpent
+Attack/Defense: 2100/1800
+Password: 19066538
+Star chip: 350
+Description: A massive sea serpent that creates tidal waves to wipe out
+its enemies.
+How to get it: Try dueling Mia Valentine or Heinshi 1st to get it.
+
+Bracchio-Radius
+Type: Dinosaur
+Attack/Defense: 2200/2000
+Password: 16507828
+Star chip: 800
+Description: A colossal dinosaur that stomps on anything that wonders
+into its path.
+How to get it: Duel low Desert Mage or High Desert Mage.
+
+Zera the Mant
+Type: Fiend
+Attack/Defense: 2800/2300
+Password: 69123138
+Star chip: N/A
+Description: A huge, brutal monster that attack with razor-sharp claws.
+How to get it: You can't actually get this card. You have to use the a
+ritual card.
+
+Kaiser Dragon
+Type: Dragon
+Attack/Defense: 2300/200
+Password: 94566432
+Star chip: 900
+Description: A very powerful dragon emperor.
+How to get it: Still working on it.
+
+Millennium Shield
+Type: Warrior
+Attack/Defense: 0/3000
+Password: 32012841
+Star chip: 200
+Description: A millennium item candidate that is said to block any
+powerful attack.
+How to get it: The only way to get this is to enter the password.
+Don't worry it only cost 200 star chip.
+
+Labyrinth Wall
+Type: Rock
+Attack/Defense: 0/3000
+Password: 67284908
+Star chip: 200
+Description: Walls appear on the field to form a labyrinth with no exit
+How to get it: Duel low or high desert mage to get this card.
+
+Jirai Gumo
+Type: Insect
+Attack/Defense: 2200/100
+Password: 94773007
+Star chip: 80
+Description: A monster Spider that dwells under the earth.
+How to get it: Duel high or low forest mage to get this.
+
+Labyrinth Tank
+Type: Machine
+Attack/Defense: 2400/2400
+Password: 99551425
+Star chip: 99999
+Description: A tank that race around a labyrinth hunting down its enemy.
+How to get it: I finally got it from Heishin 1.
+
+Bickuribox
+Type: Fiend
+Attack/Defense: 2300/2000
+Password: 25655502
+Star Chip: 900
+Description: A jack-in-the-box that excels in surprise attacks
+How to get it: Still working on it but for now you can buy it.
+
+Sanga of Thunder
+Type: Thunder
+Attack/Defense: 2600/2200
+Password: 25955164
+Star chip: 99999
+Description: A golem that uses lightning attack similar to the
+labyrinth brothers.
+How to get it: Duel Heinshin 1st or Heinshin 2nd.
+
+Suijin
+Type: Water
+Attack/Defense: 2500/2400
+Password: 98434877
+Star chip: 99999
+Description: A golem that use water attack like the Labyrinth brothers.
+How to get it: Duel Heinshi 1st or Heinshi 2nd.
+
+Kazejin
+Type: Spellcaster
+Attack/Defense: 2400/2200
+Password: 62340868
+Star chip: 99999
+Description: A golem that use wind attack similar to the labyrinth
+brothers.
+How to get it: Duel Heinshi 1st or Heinshi 2nd.
+
+Gate Guardian
+Type: Warrior
+Attack/Defense: 3750/3400
+Password: 56483330
+Star chip: 99999
+Description: Sanga, Kazejin, and Suijin Join to form a single,
+powerful monster.
+How to get it: You can't win this card. You need the three labyrinths
+brothers and the Gate Guardian Ritual.
+
+Dragon Seeker
+Type: Dragon
+Attack/Defense: 2100/2000
+Password: 28563545
+Star chip: 700
+Description: A fearsome monster sent from the netherworld to destroy
+dragon.
+How to get it: I got mine from Heishin 1st.
+
+Meteor B. Dragon
+Type: Dragon
+Attack/Defense 3500/2000
+Password: N/A
+Star Chip: N/A
+Description: With the burning hide of a meteorte, this creature vaporizes
+all that it touches.
+How to get it: Duel Low Meadow Mage to get this helpful card.
+
+Skull Knight
+Type: Spellcaster
+Attack/Defense: 2650/2250
+Password: 02504891
+Star chip: 99999
+Description: A monk whgo has conducted several ritual in the
+netherworld, and who is capable of using both weapon and magic.
+How to get it: Low Meadow Mage gives you this useful card.
+
+Empress Judge
+Type: Warrior
+Attack/Defense: 2100/1700
+Password: 15237615
+Star chip: 500
+Description: Empress of the Golden Kingdom. None may refuse her will.
+How to get it: Duel Heishin 1st for this card. That's how I got mine.
+
+Mikazukinoyaiba
+Type: Dragon
+Attack/Defense: 2200/2350
+Password: 38277918
+Star chip: 99999
+Description: A dragon warrior armed with a crescent-shaped sword.
+Rumor to be from the moon.
+How to get it: Still trying to get it. I will post where I get it as
+soon I can find out who gives it.
+
+B. Dragon Jungle King
+Type: Dragon
+Attack/Deffense : 2100/1800
+Password:89832901
+Star Chip: 999999
+Description : A jet-black dragon that inhabits the jungles and feeds on trees.
+How to get it: To get this good card duel Low or High Forest Mage or Heishin 1.
+
+Monstrous Bird
+Type: Winged Beast
+Attack/Defense: 2000/1900
+Password: 35712107
+Star chip: 550
+Description: A huge bird known for its sharp dive attack.
+How to get it: You can either buy it or duel High Mountain Mage for
+it. Heishin 1 and 2 gives it out sometime.
+
+Air Eater
+Type: Fiend
+Attack/Defense: 2100/1600
+Password: 08353769
+Star chip: 1000
+Description: A monster that suffocates its enemy by feeding on the
+surrounding air supply.
+How to get it: Heishin 1st gives away this card.
+
+Zoa
+Type: Fiend
+Attack/Defense: 2600/1900
+Password: 24311372
+Star chip: 99999
+Description: A monster whose full potential can be achieve when
+transformed into its metal form.
+How to get it: Try dueling Heinshi 1st.
+
+Metal Zoa
+Type: Machine
+Attack/Defense: 3000/2300
+Password: 50705071
+Star chip: 99999
+Description: metallic Zoa capable of intensive attacks.
+How to get it: To get this card you can either duel Sebek or use metal
+morph on Zoa.
+
+Right Leg of the Forbidden One
+Type: Spellcaster
+Attack/Defense : 200/300
+Code # :08124921
+Star Chip: 999999
+Description : A forbidden limb sealed by magic. Who ever brakes this seal
+will know infinite power. Only one card of this type can be included in a
+deck.
+How to get it: Mostly Villagers 2 or 3 gives this card.
+
+Left Leg of the Forbidden One
+Type: Spellcaster
+Attack/Defense : 200/300
+Code # :44519536
+Star Chip: 999999
+Description : A forbidden limb sealed by magic. Who ever brakes this seal
+will know infinite power. Only one card of this type can be included in a
+deck.
+How to get it: Mostly Villagers 2 or 3 gives this card.
+
+Right Arm of the Forbidden One
+Type: Spellcaster
+Attack/Defense : 200/300
+Code # :70903634
+Star Chip: 999999
+Description :A forbidden limb sealed by magic. Who ever brakes this seal
+will know infinite power. Only one card of this type can be included in a
+deck.
+How to get it : The arms are all random.
+
+Left Arm of the Forbidden One
+Type: Spellcaster
+Attack/Defense :200/300
+Code # :07902349
+Star Chip: 999999
+Description :A forbidden limb sealed by magic. Who ever brakes this seal
+will know infinite power. Only one card of this type can be included in a
+deck.
+How to get it: The arms are all random.
+
+Exodia the Forbidden
+Type: Spellcaster
+Attack/Defense : 1000/1000
+Code # :33396948
+Star Chip: 999999
+Description : Once combind with arms and legs, this monster is freed from
+its magical chains. Only one card of this type can be included in a deck.
+How to get it: Duel Seto 2 or 3, Heishin 2 to get this extremely rare card.
+
+Crimson Sunbird
+Type: Winged Beast
+Attack/Defense: 2300/1800
+Password: 46696593
+Star chip: 700
+Description: This monster swoops down and attacks with a rain of
+knives stored in its wings.
+How to get it: Duel high Mountain Mage for this card.
+
+Stone D.
+Type: Rock
+Attack/Defense: 2000/2300
+Password: 68171737
+Star chip: 900
+Description: With a body consistent entirely of rock, this dragon
+flings boulder at its enemy.
+How to get it: Duel low, high desert mage or Heishin 1st to get this
+card.
+
+Bracchio-raidus
+Type: Dinosaur
+Attack/Defense: 2200/2000
+Password: 16507828
+Star chip: 800
+Description: A colossal dinosaur that stomps on anything that wonders in
+to its path.
+How to get it: low or high Desert Mage gave you this card.
+
+Thousand Dragon
+Type: Dragon
+Attack/Defense: 2400/2000
+Password: 41462083
+Star chip: 99999
+Description: A dragon that has experience over a thousand years.
+How to get it: You can either fuse any dragon under 2400 with Time
+Wizard to get this or you can duel Seto 3rd.
+
+Mystical Sand
+Type: Rock
+Attack/Defense: 2100/1700
+Password: 32751480
+Star chip: 500
+Description: Turns enemies to stone and crushes them to dust.
+How to get it: These are the people that I got mine from Heishin 1st,
+low and high Desert Mage.
+
+Great Mammoth of the Goldfine
+Type: Zombie
+Attack/Defense: 2200/1800
+Password: 54622031
+Star chip: 800
+Description: A very unusual skeletal zombie elephant with glowing gold
+bones.
+How to get it: You can get it from Heishin 1st and second or low or high
+Desert Mage.
+
+Dark-piercing Light
+Magic Card
+Password: 45895206
+Star chip: 99999
+Description: A dazzling light reveals all monsters on the playing
+field.
+How to get it: Duel Yami Bakura at tech-S to get this helpful card.
+
+Violet Crystal
+Equip Magic Card
+Password: 15052462
+Star chip: 800
+Description: Mystic forces from the crystal increase the power of
+zombies.
+How to get it: Try getting Tech-S on Isis.
+
+Electro-whip
+Equip Magic Card
+Password: 37820550
+Star chip: 800
+Description: A whip for paralyzing enemies. Increase power when
+equipped with female creature.
+How to get it: Try getting tech-S on Pegasus or Isis for this card.
+
+Curse Breaker
+Magic Card
+Password: 69666645
+Star chip: 10
+Description: Cancel the magic over all level-reduced monsters and sets
+them at level 0.
+How to get it: I got mine from Heinshi 2nd but I'm not sure where you
+get this.
+
+Megamorph
+Equip Magic Card
+Password: 22046459
+Star chip: 50000
+Description: Powers up any monster by 1000.
+How to get it: Pegasus is the only one so far that gives you this
+rare card.
+
+Dragon Capture Jar
+Trap Card
+Password: 50045299
+Star Chip: 99999
+Description: A jar that captures all dragons on the field.
+How to get it: Try to tech-s Pegasus for this card.
+
+Magical Labyrinth
+Equip Magic Card
+Password: 64389297
+Star chip: 10
+Description: A card for boosting the power of the Labyrinth Wall.
+How to get it: Duel the Labyrinth Mage for this card or you can enter
+the password it only cost 10 star chips.
+
+Kuna with Chain
+Equip Magic Card
+Password: 37390589
+Star chip: 800
+Description: A boomerang featuring the two cards. The Legendary Sword
+and Sword of Dark Destruction.
+How to get it: Jono one and two gives this card.
+
+Shadow Spell
+Magic Card
+Password: 29267084
+Star chip: 99999
+Description: Lowers a monsters attack by 1000
+
+Dian Keto the Cure Master
+Magic Card
+Password: 84257639
+Star chip: 99999
+Description: Increase your Life Points by 1000 points
+How to get it: Duel Teana 2nd to get this card.
+
+Raigeki
+Magic Card
+Password: 12580477
+Star chip: 99999
+Description: Destroy all opponent monster cards on the field.
+How to get it: When you start a new game you usually have this. But if
+you don't try dueling Pegasus at tech S.
+
+If you want me to add more cards just email me and tell me the cards
+name, password, description of the card and how to get it. I will give
+you Credit.
+
+====================
+Ritual Cards
+====================
+This section I tell you some ritual cards and what to sacrifice.
+Refer to the how to play section to learn how to use a ritual card.
+
+Legend
+
+Ritual Card
+Monster Attack/Defense
+
+Sacrifice 1, Sacrifice 2, Sacrifice 3
+
+Ultimate Dragon Ritual
+Blue Eyes Ultimate Dragon (4500/3800)
+
+Sacrifice: Blue Eyes White Dragon, Blue Eyes White Dragon, Blue Eyes White Dragon
+
+Gate Guardian Ritual
+Gate Guardian (3750/3400)
+
+Sacrifice: Sanga of the Thunder, Kazejin, Suijin
+
+Black Luster Ritual
+Black Luster Soldier (3000/2500)
+
+Sacrifice: Beaver Warrior, Gaia the Fierce Knight, Kuriboh
+
+Novox's Prayer
+Skull Guardian (2050/2550)
+
+Sacrifice: M-Warrior #1, M-Warrior #2, Kimakiriman
+
+Curse of Millennium Shield
+Millennium Shield (0/3000)
+
+Sacrifice: Prevent Rat, One-eyed Shield Dragon, Armor Rat
+
+Yamadron Ritual
+Yamadron (1600/1800)
+
+Sacrifice: Mountain Warrior, Koumori Dragon, Wings of Wicked Flame
+
+Zera Ritual
+Zera the Mant (2800/2300)
+
+Sacrifice: King of Yamimakai, Wicked Dragon with the Ersatz Head, Ryu-Kishi
+Powered
+
+War-Lion Ritual
+Super War-Lion (2300/2100)
+
+Sacrifice: Frenzied Panda, Leogun, Garvas
+
+Beastry Mirror Ritual
+Fiend Mirror (2100/1800)
+
+Sacrifice: Fiends Reflection #2, Wicked Mirror, Fiends Reflection #1
+
+Commencement Dance
+Performance of Sword (1950/1850)
+
+Sacrifice: Water Omotics, Dancing Elf, Bean Soldier
+
+Revival of Sengenjin
+Sengenjin (2750/2550)
+
+Sacrifice: Hitotsu-me Giant, Tiger Axe, Millennium Golem
+
+Fortress Whale Oath
+Fortress Whale (2350/2150)
+
+White Dolphin, Mech Bass, Misairuzame
+
+Curse of Tri-Horn Dragon
+Tri-Horn Dragon (2850/2350)
+
+Sacrifice: Feral Imp, Torike, B. Dragon Jungle King
+
+Revival of Serpent Night Dragon
+Serpent Night Dragon (2350/2400)
+
+Sacrifice: Darkfire Dragon, Dragoness the Wicked Knight, Obeses
+Marmot of Nefariousness
+
+Turtle Oath
+Crab Turtle (2550/2500)
+
+Sacrifice: Catapult Turtle, Kanikabuto, 30,000-Years White Turtle
+
+Construct of Mask
+Mask of Shine and Dark (2000/1800)
+
+Sacrifice: Mask of Darkness, Masked Clown, Masked Sorcerer
+
+Resurrection of Chakra
+Chakra (2450/200)
+
+Sacrifice: Claw Reacher, Versago the Destroyer, Dark Artist
+
+Puppet Ritual
+Psycho Puppet (2000/2350)
+
+Sacrifice: Mysterious Puppeteer, Saber Slasher, Blocker
+
+Javelin Beetle Pact
+Javelin Beetle (2450/2550)
+
+Sacrifice: Hercules Beetle, Kuwagata Alpha, Kwaga, Hercules
+
+Garma Sword Oath
+Garma Sword (2550/2150)
+
+Sacrifice: Vishwar Randi, Swordstalker, Succubus Knight
+
+Cosmo Queen Prayer
+Cosmo Queen (2900/2450)
+
+Sacrifice: Queen's Double, Queen of Autumn Leaves, Princess of Tsuguri
+
+Hamburger Recipe
+Hungry Burger (2000/1850)
+
+Sacrifice: Beetle Steer, Bioplant, Griggle
+
+Revival of Skeleton Rider
+Dokurorider (1900/1850)
+
+Sacrifice: Temple of Skulls, Cockroach Knight, Korogashi\
+
+Dark Magic Ritual
+Magician of Black Chaos (2800/2600)
+
+Winged Dragon #1, Dark Magician, Blast Juggler
+
+Comming Soon... I'll add the fushion to make the ritual cards.
+
+================================
+50 Cards Duel Statistic
+================================
+   In this section you will see some duels statistic on some characters.
+What that means is that I will have some characters and all the cards they
+gives out at 50 duels. I took me along time to make this section, so enjoy
+^_^
+
+Legend: This is how I'm gonna put it.
+Character name
+Author: named
+#. Monster Rank
+
+-----------------------------------------------------------------
+Simon Muran
+By: Me
+ ------------------------------------------
+|Monster:                        |  Rank:  |
+|------------------------------------------|
+|1. Zombie Warrior               |  S Pow  |
+|2. Shadow Specter               |  S Pow  |
+|3. Muka Muka                    |  S Pow  |
+|4. Ameba                        |  S Pow  |
+|5. Griffore                     |  S Pow  |
+|6. Change Slime                 |  S Pow  |
+|7. Korogashi                    |  S Pow  |
+|8. Key Mace                     |  S Pow  |
+|9. Griffore                     |  S Pow  |
+|10. Zombie Warrior              |  S Pow  |
+|11. Change Slim                 |  S Pow  |
+|12. Wretched Ghost of the Attic |  A Pow  |
+|13. Mech Mole Zombie            |  A Pow  |
+|14. Yashinoki                   |  S Pow  |
+|15. Celtic Guardian             |  S Pow  |
+|16. Key Mace                    |  S Pow  |
+|17. Sangan                      |  S Pow  |
+|18. Tomozaurus                  |  S Pow  |
+|19. Mystic Lamp                 |  S Pow  |
+|20. Sangan                      |  S Pow  |
+|21. Korogashi                   |  S Pow  |
+|22. Ancient Jar                 |  S Pow  |
+|23. Leghul                      |  S Pow  |
+|24. Weather Control             |  S Pow  |
+|25. Blackland Fire Dragon       |  S Pow  |
+|26. Haniwa                      |  S Pow  |
+|27. Wretched Ghost of the Attic |  S Pow  |
+|28. Leghul                      |  S Pow  |
+|29. Weather Control             |  A Pow  |
+|30. Jinzo #7                    |  S Pow  |
+|31. Mystic Lamp                 |  S Pow  |
+|32. Blackland Fire Dragon       |  S Pow  |
+|33. Haniwa                      |  S Pow  |
+|34. Mechanical Spider           |  S Pow  |
+|35. Mechanical Spider           |  S Pow  |
+|36. Ancient Jar                 |  S Pow  |
+|37. Ancient Jar                 |  S Pow  |
+|38. Silver Fang                 |  A Pow  |
+|39. Mystery Hand                |  S Pow  |
+|40. Turu-Purun                  |  S Pow  |
+|41. Leghul                      |  S Pow  |
+|42. Zombie Warrior              |  A Pow  |
+|43. Weather Control             |  S Pow  |
+|44. Sangan                      |  S Pow  |
+|45. Fungi of the Musk           |  S Pow  |
+|46. Mammoth Graveyard           |  S Pow  |
+|47. Ameba                       |  S Pow  |
+|48. Change Slime                |  S Pow  |
+|49. Sangan                      |  S Pow  |
+|50. Ancient Jar                 |  S Pow  |
+ ------------------------------------------
+
+-----------------------------------------------------------------
+Teana 1
+By: Me
+ -------------------------------------------
+|Monster:                         |  Rank:  |
+|-------------------------------------------|
+|1. Dancing Elf                   |  S Pow  |
+|2. Zone Eater                    |  S Pow  |
+|3. Armed Ninja                   |  A Pow  |
+|4. Zone Eater                    |  S Pow  |
+|5. Armed Ninja                   |  S Pow  |
+|6. Zone Eater                    |  S Pow  |
+|7. Swordsman from a Foreign Land |  S Pow  |
+|8. Ancient Jar                   |  D Pow  |
+|9. Milus Radiant                 |  B Pow  |
+|10. Dancing Elf                  |  S Pow  |
+|11. Ooguchi                      |  S Pow  |
+|12. Zone Eater                   |  S Pow  |
+|13. Milus Radiant                |  S Pow  |
+|14. Zone Eater                   |  S Pow  |
+|15. Dancing Elf                  |  S Pow  |
+|16. Zone Eater                   |  S Pow  |
+|17. Monster Eye                  |  S Pow  |
+|18. Dancing Elf                  |  S Pow  |
+|19. Sinister Serpent             |  S Pow  |
+|20. Zone Eater                   |  S Pow  |
+|21. Ooguchi                      |  S Pow  |
+|22. Milus Radiant                |  S Pow  |
+|23. Kuriboh                      |  S Pow  |
+|25. Kuriboh                      |  S Pow  |
+|26. Armed Ninja                  |  S Pow  |
+|27. Milus Radiant                |  S Pow  |
+|28. Armed Ninja                  |  S Pow  |
+|29. Sword of Dark Destruction    |  S Pow  |
+|30. Skull Servant                |  A Pow  |
+|31. Sinister Serpent             |  S Pow  |
+|32. Dancing Elf                  |  S Pow  |
+|33. Armed Ninja                  |  S Pow  |
+|34. Kuriboh                      |  S Pow  |
+|35. Monster Eye                  |  S Pow  |
+|36. Ooguchi                      |  S Pow  |
+|37. Ooguchi                      |  S Pow  |
+|38. Mask of Darkness             |  S Pow  |
+|39. Monster Eye                  |  S Pow  |
+|40. Ooguchi                      |  A Pow  |
+|41. Milus Radiant                |  S Pow  |
+|42. Dancing Elf                  |  S Pow  |
+|43. Zone Eater                   |  S Pow  |
+|44. Milus Radiant                |  S Pow  |
+|45. Ooguchi                      |  A Pow  |
+|46. Milus Radiant                |  S Pow  |
+|47. Armed Ninja                  |  D Pow  |
+|48. Kuriboh                      |  S Pow  |
+|49. Swordsman from a Foreign Land|  S Pow  |
+|50. Armed Ninja                  |  S Pow  |
+ -------------------------------------------
+
+-----------------------------------------------------------------
+Jono 1
+By: ngcheechong
+ ------------------------------------------
+|Monster:                        |  Rank:  |
+|------------------------------------------|
+|1. Meda Bat                     |  S Pow  |
+|2. Meda Bat                     |  S Pow  |
+|3. Baby Dragon                  |  S Pow  |
+|4. Droll Bird                   |  S Pow  |
+|5. Mystery Hand                 |  S Pow  |
+|6. Droll Bird                   |  S Pow  |
+|7. Mechanical Spider            |  S Pow  |
+|8. The Melting Red Shadow       |  S Pow  |
+|9. Droll Bird                   |  S Pow  |
+|10. Trakadon                    |  S Pow  |
+|11. Mech Mole Zombie            |  S Pow  |
+|12. Turu-Purun                  |  S Pow  |
+|13. Abyss Flower                |  S Pow  |
+|14. Wolf                        |  S Pow  |
+|15. Kunai with Chain            |  S Pow  |
+|16. White Dolphin               |  S Pow  |
+|17. Mech Mole Zombie            |  S Pow  |
+|18. Yamatano Dragon Scroll      |  S Pow  |
+|19. Korogashi                   |  S Pow  |
+|20. Baby Dragon                 |  S Pow  |
+|21. Boo Koo                     |  S Pow  |
+|22. Rainbow Flower              |  S Pow  |
+|23. Kunai with Chain            |  S Pow  |
+|24. Basic Insect                |  S Pow  |
+|25. Man-eater Bug               |  S Pow  |
+|26. Fiend's Hand                |  S Pow  |
+|27. Jinzo #7                    |  S Pow  |
+|28. Basic Insect                |  S Pow  |
+|29. Jinzo #7                    |  S Pow  |
+|30. Mystery Hand                |  S Pow  |
+||31. Korogashi                  |  S Pow  |
+|32. Rainbow Flower              |  S Pow  |
+|33. Eyearmor                    |  S Pow  |
+|34. Pot the Trick               |  S Pow  |
+|35. Fire Reaper                 |  S Pow  |
+|36. Abyss Flower                |  S Pow  |
+|37. Sectarian of Secrets        |  S Pow  |
+|38. Weather Control             |  S Pow  |
+|39. Hurricail                   |  S Pow  |
+|40. Air Marmot of Nefariousness |  S Pow  |
+|41. The Melting Red Shadow      |  S Pow  |
+|42. Haniwa                      |  S Pow  |
+|43. The Melting Red Shadow      |  S Pow  |
+|44. Hoshiningen                 |  S Pow  |
+|45. Air Marmot of Nefariousness |  S Pow  |
+|46. Kagemusha of the Blue Flame |  S Pow  |
+|47. Candle of Fate              |  S Pow  |
+|48. Time Wizard                 |  S Pow  |
+|49. Masked Clown                |  S Pow  |
+|50. Air Marmot of Nefariousness |  S Pow  |
+ ------------------------------------------
+
+-----------------------------------------------------------------
+Villager 1
+By: ngcheechong
+ ------------------------------------------
+|Monster:                        |  Rank:  |
+|------------------------------------------|
+|1. Dark Plant                   |  S Pow  |
+|2. Armed Ninja                  |  S Tech |
+|3. Fungi of the Musk            |  S Pow  |
+|4. Bat                          |  S Pow  |
+|5. Dancing Elf                  |  S Pow  |
+|6. Kuriboh                      |  S Pow  |
+|7. Ooguchi                      |  S Pow  |
+|8. Mystical Lamp                |  S Pow  |
+|9. Elf's Light                  |  A Pow  |
+|10. Ameba                       |  S Pow  |
+|11. Mystical Lamp               |  S Pow  |
+|12. Bone Mouse                  |  S Pow  |
+|13. Dancing Elf                 |  S Pow  |
+|14. Zone Eater                  |  S Pow  |
+|15. Dancing Elf                 |  S Pow  |
+|16. Bat                         |  S Tech |
+|17. Mooyan Curry                |  S Pow  |
+|18. Milus Radiant               |  S Pow  |
+|19. Griggle                     |  S Pow  |
+|20. Pot the Trick               |  S Pow  |
+|21. Monster Eye                 |  S Pow  |
+|22. Dancing Elf                 |  S Pow  |
+|23. Leghul                      |  S Pow  |
+|24. Skull Servant               |  S Pow  |
+|25. Kuriboh                     |  S Pow  |
+|26. Mooyan Curry                |  S Pow  |
+|27. Griggle                     |  S Pow  |
+|28. Patrol Robo                 |  S Pow  |
+|29. Swordman from a Foreign Land|  S Pow  |
+|30. Pot the Trick               |  S Pow  |
+|31. Dancing Elf                 |  S Pow  |
+|32. Ooguchi                     |  S Pow  |
+|33. Leghul                      |  S Pow  |
+|34. Dancing Elf                 |  S Pow  |
+|35. Pot the Trick               |  S Pow  |
+|36. Dark Plant                  |  S Pow  |
+|37. Ancient Jar                 |  S Pow  |
+|38. Sinister Serpent            |  S Pow  |
+|39. Ancient Jar                 |  S Pow  |
+|40. Ancient Jar                 |  S Pow  |
+|41. Monster Eye                 |  S Pow  |
+|42. Queen's Double              |  S Pow  |
+|43. D. Human                    |  S Pow  |
+|44. Red Medicine                |  C Pow  |
+|45. Mountain                    |  C Pow  |
+|46. Cursebreaker                |  S Pow  |
+|47. House of Adhesive Tape      |  S Pow  |
+|48. Milus Radiant               |  C Tech |
+|49. Final Flame                 |  B Pow  |
+|50. Pot the Trick               |  C Pow  |
+ ------------------------------------------
+
+-----------------------------------------------------------------
+Villager 3
+By: world_champion
+ -----------------------------------------
+|Moster:                        | Rank:   |
+|-----------------------------------------|
+|1. Versago the Destroyer       | S Pow   |
+|2. Dragon Zombie               | S Pow   |
+|3. One-eyed Shield Dragon      | S Pow   |
+|4. Dragon Statue               | S Pow   |
+|5. Dragon Statue               | S Pow   |
+|6. Skull Servant               | S Pow   |
+|7. Change Slime                | S Pow   |
+|8. Ooguchi                     | S Pow   |
+|9. Rock Ogre Grotto #2         | S Pow   |
+|10. Dragoness the Wicked Knight| S Pow   |
+|11. Armaill                    | S Pow   |
+|12. Penguin Soldier            | S Pow   |
+|13. Dream Clown                | S Pow   |
+|14. The 13th Grave             | S Pow   |
+|15. Water Element              | S Pow   |
+|16. Wicked Dragon Ersatz Head  | S Pow   |
+|17. Gaurdian of the Labyrinth  | S Pow   |
+|18. Kaminarikozou              | S Pow   |
+|19. Ancient Tree Enlightenment | S Pow   |
+|20. Supporter in the Shadow    | S Pow   |
+|21. Tenderness                 | S Pow   |
+|22. Solitude                   | S Pow   |
+|23. Hyo                        | S Pow   |
+|24. Star Boy                   | S Pow   |
+|25. Frenzied Panda             | S Pow   |
+|26. Guardian of the Labyrinth  | S Pow   |
+|27. Wing Egg Elf               | S Pow   |
+|28. Armored Rat                | S Pow   |
+|29. Bio Plant                  | S Pow   |
+|30. Dissolverock               | S Pow   |
+|31. Beastking of the Swamp     | S Pow   |
+|32. Zombie Warrior             | S Pow   |
+|33. Water Element              | S Pow   |
+|34. Supporter in the Shadow    | S Pow   |
+|35. Toad Master                | S Pow   |
+|36. Muka Muka                  | S Pow   |
+|37. Steel Scorpion             | S Pow   |
+|38. Snakeyashi                 | S Pow   |
+|39. Wood Remains               | S Pow   |
+|40. Dragoness the Wicked Knight| S Pow   |
+|41. Muka Muka                  | S Pow   |
+|42. Skull Servant              | S Pow   |
+|43. Dragon Statue              | S Pow   |
+|44. Tenderness                 | S Pow   |
+|45. Frenzied Panda             | S Pow   |
+|46. Beastking of the Swamps    | S Pow   |
+|47. Disolverock                | S Pow   |
+|48. Dragon Statue              | S Pow   |
+|49. Armaill                    | S Pow   |
+|50. Penguin Soldier            | S Pow   |
+ -----------------------------------------
+
+-----------------------------------------------------------------
+
+Seto 1
+By: liquidsnake741
+ -----------------------------------------
+|Moster:                         | Rank:  |
+|-----------------------------------------|
+|1. Fire Eye                     | S Pow  |
+|2. Wings of Wicked Flame        | S Pow  |
+|3. Dark Plant                   | S Pow  |
+|4. Krokodilus                   | S Pow  |
+|5. Zarigun                      | S Pow  |
+|6. Ganigumo                     | S Pow  |
+|7. Ryu-kishin                   | S Pow  |
+|8. Fire Reaper                  | S Pow  |
+|9. Little Chimera               | S Pow  |
+|10. Abyss Flower                | S Pow  |
+|11. Wings of Wicked Flame       | S Pow  |
+|12. Mushroom Man #2             | S Pow  |
+|13. Zarigun                     | S Pow  |
+|14. The Bewitching Phantom Thief| S Pow  |
+|15. White Magical Hat           | S Pow  |
+|16. Hoshiningen                 | S Pow  |
+|17. Wicked Mirror               | S Pow  |
+|18. Dharma Cannon               | S Pow  |
+|19. Sectarian of Secrets        | S Pow  |
+|20. Lucky Trinket               | S Pow  |
+|21. Tentacle Plant              | S Pow  |
+|22. Yamatano Dragon Scroll      | S Pow  |
+|23. Rainbow Flower              | S Pow  |
+|24. Little Chimera              | S Pow  |
+|25. Armed Ninja	               | S Pow  |
+|26. Abyss Flower                | S Pow  |
+|27. Hoshiningen	               | S Pow  |
+|28. Dark Plant                  | S Pow  |
+|29. Zarigun                     | S Pow  |
+|30. Zarigun                     | S Pow  |
+|31. Wicked Mirror               | S Pow  |
+|32. Toon Aligator               | S Pow  |
+|33. The Bewitching Phantom Thief| S Pow  |
+|34. Wood Remains                | S Pow  |
+|35. Fire Reaper                 | S Pow  |
+|36. Mushroom Man                | A Pow  |
+|37. Muka Muka                   | S Pow  |
+|38. Krokodilus                  | S Pow  |
+|39. Fire Eye                    | S Pow  |
+|40. Flame Manipulator           | S Pow  |
+|41. Ganigumo                    | S Pow  |
+|42. White Magical Hat           | S Pow  |
+|43. Ryu-kishin                  | S Pow  |
+|44. Dharma Cannon               | S Pow  |
+|45. Lucky Trinket               | S Pow  |
+|46. Key Mace                    | S Pow  |
+|47. Morphing Jar                | S Pow  |
+|48. Wings of Wicked Flame       | S Pow  |
+|49. Tentacle Plant              | A Pow  |
+|50. Yamatano Dragon Scroll      | S Pow  |
+ -----------------------------------------
+
+-----------------------------------------------------------------
+
+Kaiba
+By: ME :)
+ --------------------------------------------
+|Monster:                        |    Rank:  |
+|--------------------------------------------|
+|1. Yamatano Dragon Scroll       |    A Pow  |
+|2. Battle Ox                    |    S Pow  |
+|3. Koumori Dragon               |    S Pow  |
+|4. La Jinn the Mystical Genie   |    S Pow  |
+|5. Goblin Fan                   |    S Pow  |
+|6. La Jinn the Mystical Genie   |    S Pow  |
+|7. Sogen                        |    S Pow  |
+|8. Mystic Clown                 |    S Pow  |
+|9. Ryu-Kishin                   |    A Pow  |
+|10. The Wicked Worm Beast       |    D Pow  |
+|11. La Jinn the Mystical Genie  |    S Pow  |
+|12. Saggi the Dark Clown        |    B Pow  |
+|13. Sogen                       |    S Pow  |
+|14. The Wicked Worn Beast       |    C Pow  |
+|15. Koumori Dragon              |    S Pow  |
+|16. Hitotsu-me Giant            |    A Pow  |
+|17. One-eyed Shield Dragon      |    A Pow  |
+|18. Koumori Dragon              |    S Pow  |
+|19. Saggi the Dark Clown        |    S Pow  |
+|20. The Wicked Worn Beast       |    S Pow  |
+|21. Saggi the Dark Clown        |    A Pow  |
+|22. Hitotsu-me Giant            |    S Pow  |
+|23. Blackland Fire Dragon       |    B Pow  |
+|24. Hitotsu-me Giant            |    S Pow  |
+|25. Blackland Fire Dragon       |    B Pow  |
+|26. Mystic Clown                |    C Pow  |
+|27. Gappler                     |    A Pow  |
+|28. Bight Castle                |    S Tech |
+|29. Saggi the Dark Clown        |    A Pow  |
+|30. Saggi the Dark Clown        |    A Pow  |
+|31. Widespread Ruin             |    S Tech |
+|32. Widespread Ruin             |    S Tech |
+|33. Ryu-kishin                  |    S Tech |
+|34. Grappler                    |    S Pow  |
+|35. Yamadron Ritual             |    S Tech |
+|36. Minomushi Warrior           |    S Pow  |
+|37. Yamatano Dragon Scroll      |    S Pow  |
+|38. Mystic Horseman             |    A Pow  |
+|39. Yamatano Dragon Scroll      |    S Pow  |
+|40. Wicked Dragon with Ersatz H.|    S Pow  |
+|41. Baby Dragon                 |    A Pow  |
+|42. Grappler                    |    S pow  |
+|43. Baby Dragon                 |    A Pow  |
+|44. Hunter Spider               |    B Pow  |
+|45. Warrior Elimination         |    S Tech |
+|46. Hitotsu-me Giant            |    A Pow  |
+|47. Yamatano Dragon Scroll      |    A Pow  |
+|48. La Jinn the Mystical Genie  |    A Pow  |
+|49. Saggi the Dark Clown        |    A Pow  |
+|50. Hittotsu-me Giant           |    D Pow  |
+ --------------------------------------------
+
+-----------------------------------------------------------------
+
+Low Meadow Mage
+By: kyokusangi
+ ----------------------------------------
+|Monster:                       | Rank:  |
+|----------------------------------------|
+|1. Sogen                       | Tech D |
+|2. Shadow Specter              |  Pow S |
+|3. Crawling Dragon             |  Pow C |
+|4. Silver Fang                 |  Pow D |
+|5. Shadow Specter              |  Pow D |
+|6. Weather Control             |  Pow S |
+|7. Wretched Ghost of the Attic |  Pow S |
+|8. Giant Mech-Soldier          |  Pow C |
+|9. Metal Dragon                |  Pow C |
+|10. Blackland Fire Dragon      | Tech D |
+|11. Weather Control            |  Pow D |
+|12. Vermillion Sparrow         |  Pow A |
+|13. Feral Imp                  |  Pow C |
+|14. Zombie Warrior             |  Pow C |
+|15. Turu-Purun                 |  Pow C |
+|16. Koumori Dragon             |  Pow A |
+|17. Horn Imp                   |  Pow C |
+|18. Blackland Fire Dragon      |  Pow A |
+|19. Griffore                   |  Pow C |
+|20. Sogen                      |  Pow P |
+|21. Sogen                      |  Pow A |
+|22. Blackland Fire Dragon      |  Pow A |
+|23. Griffore                   |  Pow C |
+|24. Meteor Dragon              |  Pow C |
+|26. Catapult Turtle            |  Pow D |
+|27. Weather Control            |  Pow D |
+|28. Turu-Purun                 |  Pow D |
+|29. Turu-Purun                 |  Pow D |
+|30. Wretched Ghost of the Attic|  Pow D |
+|31. Muka Muka                  |  Pow S |
+|32. Kwagar Hercules            |  Pow C |
+|33. Meteor Dragon              |  Pow D |
+|34. Catapult Turtle            |  Pow D |
+|35. White Dolphin              |  Pow D |
+|36. Turu-Purun                 | Tech D |
+|37. Koumori Dragon             |  Pow D |
+|38. Beaver Warrior             |  Pow A |
+|39. Bracchio-Raidus            |  Pow A |
+|40. Jinzo #7                   |  Pow C |
+|41. Sogen                      |  Pow A |
+|42. Jinzo #7                   |  Pow A |
+|43. Shadow Specter             |  Pow A |
+|44. Torike                     |  Pow P |
+|45. Horn Imp                   |  Pow A |
+|46. Giant Mech-Soldier         | Tech D |
+|47. Feral Imp                  |  Pow D |
+|49. Sogen                      |  Pow D |
+|50. Gaia the Fierce Knight     |  Pow S |
+ ----------------------------------------
+
+More updates are coming...
+
+=================================
+Fushion
+=================================
+   This is the longest and hardest section. In this section you'll
+find out some magics, traps, and even monsters fushion. Thanks to
+all who help me with this section.
+
+------------------------------------------------
+Magics and Traps Fushions
+------------------------------------------------
+Legend: Card 1 + Card 2 = Card 3
+        or
+        Card 1 + Card 2 + Card 3 = Card 4
+
+Harpie Lady Sisters + Harpie Lady Sisters = Harpies Feather Duster
+Umi + Flame Swordman = Legendary Sword
+Megamorph + Fake Trap = Reverse Trap
+Umi + Electro Whip = Stain Storm
+Book of Secret Arts + Mooyan Curry = Hamburger Ritual
+Electro Whip  + Metal Guardian = Metalmorph
+Legendary Sword + Sword of Dark Destruction = Kunai with Chain
+Megamorph + Beast Fang = Bear Trap
+Umi + Dark Hole = Eternal Drought
+Red Medicine + Red Medicine = Goblin's Secret Remedy
+Sparks + Sparks = Hitodama
+Spellbinding Circle + Spellbinding Circle = Shadow Spell
+Winged Trumpeter + Winged Trumpeter = Soul of the Pure
+Yami + Yami = Dark Energy
+Machine Conversion Factory + Dark Energy = Black Pendant
+Electro-whip + Job-Change Mirror = Elegant Egotist
+Hitodama + Hitodama = Final Flame
+Magical Labyrinth + Metalmorph = Gate Guardian Ritual
+Beast Fangs + Beast Fangs = Eatagaboon
+Cursebreaker + Spellbinding Circle = Fake Trap
+Dain Keto the Cure Master + Dain Keto the Cure Master = Megamorph
+Dragon Treasure + Dark Energy = Revival of Serpent Knight Dragon
+Hitodama + Hitodama = Final Flame
+Malevolent Nuzzler + Malevolent Nuzzler = Revival of Chakra
+Legendary Sword + Sword of Dark Destruction = Kunai with Chain
+Machine Conversion Factory + Any Bird = Harpies Feather Duster
+Dark Energy + Dark-Piercing Light = Black Luster Ritual
+Warrior Elimination + Swamp Battle Guard = Electro Whip
+Bad Reaction to Simochi + Goblin's Fan = Breath of Light
+Goblin's Secret Remedy + Goblin's Secret Remedy = Soul of the Pure
+Follow wind + Wasteland = Breathe of Light
+Mooyan Curry + Dragon Treasure = Dragon Capture Jar
+Metalmorph + Vile Gems = Crush Card
+Machine Conversion Factory + Faith Bird = Harpies Feather Duster
+Follow wind + Acid Trap Hole = Stain Storm
+
+======================
+Card List
+======================
+                             Cards #001-300
+  --------------------------------------------------------------------------
+ | No. | Card Title                           | ATK  | DEF  | Type          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 001 | Blue Eyes White Dragon               | 3000 | 2500 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 002 | Mystical Elf                         |  800 | 2000 | Spellcaster   |
+ |-----+---------------------------------------------+------+---------------|
+ | 009 | Shadow Specter                       |  500 |  200 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 010 | Blackland Fire Dragon                | 1500 |  800 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 011 | Sword Arm of Dragon                  | 1750 | 2030 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 012 | Swamp Battleguard                    | 1800 | 1500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 013 | Tyhone                               | 1200 | 1400 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 014 | Battle Steer                         | 1800 | 1300 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 015 | Flame Swordsman                      | 1800 | 1600 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 016 | Time Wizard                          |  500 |  400 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 017 | Right Leg of the Forbidden One       |  200 |  300 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 018 | Left Leg of the Forbidden One        |  200 |  300 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 019 | Right Arm of the Forbidden One       |  200 |  300 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 020 | Left Arm of the Forbidden One        |  200 |  300 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 021 | Exodia the Forbidden                 | 1000 | 1000 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 022 | Summoned Skull                       | 2500 | 1200 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 023 | The Wicked Worm Beast                | 1400 |  700 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 024 | Skull Servant                        |  300 |  200 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 025 | Horn Imp                             | 1300 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 026 | Battle Ox                            | 1700 | 1000 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 027 | Beaver Warrior                       | 1200 | 1500 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 028 | Rock Ogre Grotto #1                  |  800 | 1200 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 029 | Mountain Warrior                     |  600 | 1000 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 030 | Zombie Warrior                       | 1200 |  900 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 031 | Koumori Dragon                       | 1500 | 1200 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 032 | Two-headed King Rex                  | 1600 | 1200 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 033 | Judgeman                             | 2200 | 1500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 034 | Saggi the Dark Clown                 |  600 | 1500 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 035 | Dark Magician                        | 2500 | 2100 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 036 | The Snake Hair                       | 1500 | 1200 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 037 | Gaia the Dragon Champion             | 2600 | 2100 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 038 | Gaia the Fierce Knight               | 2300 | 2100 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 039 | Curse of Dragon                      | 2000 | 1500 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 040 | Dragon Piper                         |  200 | 1800 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 041 | Celtic Guardian                      | 1400 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 042 | Illusionist Faceless Mage            | 1200 | 2200 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 043 | Karbonala Warrior                    | 1500 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 044 | Rogue Doll                           | 1600 | 1000 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 045 | Oscillo Hero #2                      | 1000 |  500 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 046 | Griffore                             | 1200 | 1500 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 047 | Torike                               | 1200 |  600 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 048 | Sangan                               | 1000 |  600 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 049 | Big Insect                           | 1200 | 1500 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 050 | Basic Insect                         |  500 |  700 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 051 | Armored Lizard                       | 1500 | 1200 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 052 | Hercules Beatle                      | 1500 | 2000 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 053 | Killer Needle                        | 1200 | 1000 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 054 | Gokibore                             | 1200 | 1400 | Incest        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 055 | Giant Flea                           | 1500 | 1200 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 056 | Larvae Moth                          |  500 |  400 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 057 | Great Moth                           | 2600 | 2500 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 058 | Kuriboh                              |  300 |  200 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 059 | Mammoth Graveyard                    | 1200 |  800 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 060 | Great White                          | 1600 |  800 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 061 | Wolf                                 | 1200 |  800 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 062 | Harpie Lady                          | 1300 | 1400 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 063 | Harpie Lady Sisters                  | 1950 | 2100 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 064 | Tiger Axe                            | 1300 | 1100 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 065 | Silver Fang                          | 1200 |  800 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 066 | Kojikocy                             | 1500 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 067 | Perfectly Ultimate Great Moth        | 3500 | 3000 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 068 | Garoozis                             | 1800 | 1500 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 069 | Thousand Dragon                      | 2400 | 2000 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 070 | Fiend Kraken                         | 1200 | 1400 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 071 | Jellyfish                            | 1200 | 1500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 072 | Cocoon of Evolution                  |    0 | 2000 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 073 | Kairyu-Shin                          | 1800 | 1500 | Sea Serpent   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 074 | Giant Soldier of Stone               | 1300 | 2000 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 075 | Man-Eating Plant                     |  800 |  600 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 076 | Krokodilus                           | 1100 | 1200 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 077 | Grappler                             | 1300 | 1200 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 078 | Axe Raider                           | 1700 | 1150 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 079 | Megazowler                           | 1800 | 2000 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 080 | Uraby                                | 1500 |  800 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 081 | Crawling Dragon #2                   | 1600 | 1200 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 082 | Red-eyes B. Dragon                   | 2400 | 2000 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 083 | Castle of Dark Illusions             | 1200 | 2500 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 084 | Reaper of the Cards                  | 1380 | 1930 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 085 | King of Yamimakai                    | 2000 | 1530 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 086 | Barox                                | 1380 | 1530 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 087 | Dark Chimera                         | 1610 | 1460 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 088 | Metal Guardian                       | 1150 | 2150 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 089 | Catapult Turtle                      | 1000 | 2000 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 090 | Gyakutenno Megami                    | 1800 | 2000 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 091 | Mystic Horseman                      | 1300 | 1550 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 092 | Rabid Horseman                       | 2000 | 1700 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 093 | Zanki                                | 1500 | 1700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 094 | Crawling Dragon                      | 1600 | 1400 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 095 | Crass Clown                          | 1350 | 1400 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 096 | Armored Zombie                       | 1500 |    0 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 097 | Dragon Zombie                        | 1600 |  500 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 098 | Clown Zombie                         | 1350 |    0 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 099 | Pumpking the King of Ghosts          | 1800 | 2000 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 100 | Battle Warrior                       |  700 | 1000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 101 | Wings of Wicked Flames               |  700 |  600 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 102 | Dark Mask                            |  900 |  400 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 103 | Job Change Mirror                    |  800 | 1300 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 104 | Curtain of the Dark ones             |  600 |  500 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 105 | Tomozaurus                           |  500 |  400 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 106 | Spirit of the Winds                  | 1700 | 1400 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 107 | Kagenigen                            |  800 |  600 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 108 | Graveyard and the Hand of Invitation |  700 |  900 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 109 | Goddess With the Third Eye           | 1200 | 1000 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 110 | Hero of the East                     | 1100 | 1000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 111 | Doma the Angel of Silence            | 1600 | 1400 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 112 | The Witch that Feeds on Life         | 1200 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 113 | Dark Gray                            |  800 |  900 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 114 | White Magical Hat                    | 1000 |  700 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 115 | Kamion Wizard                        | 1300 | 1100 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 116 | Nightmare Scorpion                   |  900 |  800 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 117 | Spirit of the Books                  | 1400 | 1200 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 118 | Supporter in the Shadows             | 1000 | 1000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 119 | Trial of Nightmares                  | 1300 |  900 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 120 | Dream Clown                          | 1200 |  900 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 121 | Sleeping Lion                        |  700 | 1700 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 122 | Yamatano Dragon Scroll               |  900 |  300 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 123 | Dark Plant                           |  300 |  400 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 124 | Ancient Tool                         | 1700 | 1400 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 125 | Faith Bird                           | 1500 | 1100 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 126 | Orion the Battle King                | 1800 | 1500 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 127 | Ansatsu                              | 1700 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 128 | Lamoon                               | 1200 | 1700 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 129 | Nemuriko                             |  800 |  700 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 130 | Weather Control                      |  600 |  400 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 131 | Octoberser                           | 1600 | 1400 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 132 | The 13th Grave                       | 1200 |  900 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 133 | Charubin the Fire Knight             | 1100 |  800 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 134 | Mystical Capture Chain               |  700 |  700 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 135 | Fiend's Hand                         |  600 |  600 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 136 | Witty Phantom                        | 1400 | 1300 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 137 | Mystery Hand                         |  500 |  500 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 138 | Dragon Statue                        | 1100 |  900 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 139 | Blue-eyed Silver Zombie              |  900 |  700 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 140 | Toad Master                          | 1000 | 1000 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 141 | Spiked Snail                         |  700 | 1300 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 142 | Flame Manipulator                    |  900 | 1000 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 143 | Necrolancer the Timelord             |  800 |  900 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 144 | Djinn the Watcher of the Wind        |  700 |  900 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 145 | The Bewitching Phantom Thief         |  700 |  700 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 146 | Temple of Skulls                     |  900 | 1300 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 147 | Monster Egg                          |  600 |  900 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 148 | The Shadow Who Controls the Dark     |  800 |  700 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 149 | Lord of the Lamp                     | 1400 | 1200 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 150 | Akihiron                             | 1700 | 1400 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 151 | Rhaintumdos of the Red Sword         | 1200 | 1300 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 152 | The Melting Red Shadow               |  500 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 153 | Dokuroize the Grim Reaper            |  900 | 1200 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 154 | Fire Reaper                          |  700 |  500 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 155 | Larvas                               |  800 | 1000 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 156 | Hard Armor                           |  300 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 157 | Firegrass                            |  700 |  600 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 158 | Man Eater                            |  800 |  600 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 159 | Dig Beak                             |  500 |  800 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 160 | M-Warrior #1                         | 1000 |  500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 161 | M-Warrior #2                         |  500 | 1000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 162 | Tainted Wisdom                       | 1250 |  800 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 163 | Lisark                               | 1300 | 1300 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 164 | Lord of Zemia                        | 1300 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 165 | The Judgement Hand                   | 1400 |  700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 166 | Mysterious Puppeteer                 | 1000 | 1500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 167 | Ancient Jar                          |  400 |  200 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 168 | Darkfire Dragon                      | 1500 | 1250 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 169 | Dark King of the Abyss               | 1200 |  800 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 170 | Spirit of the Harp                   |  800 | 2000 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 171 | Big Eye                              | 1200 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 172 | Armaill                              |  700 | 1300 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 173 | Dark Prisoner                        |  600 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 174 | Hurricail                            |  900 |  200 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 175 | Ancient Brain                        | 1000 |  700 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 176 | Fire Eye                             |  800 |  600 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 177 | Monsturtle                           |  800 | 1000 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 178 | Claw Reacher                         | 1000 |  800 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 179 | Phantom Dewan                        |  700 |  600 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 180 | Arlownay                             |  800 | 1000 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 181 | Dark Shade                           | 1000 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 182 | Masked Clown                         |  500 |  700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 183 | Lucky Trinket                        |  600 |  800 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 184 | Genin                                |  600 |  900 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 185 | Eyearmor                             |  600 |  500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 186 | Fiend Reflection #2                  | 1100 | 1400 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 187 | Gate Deeg                            |  700 |  800 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 188 | Synchar                              |  800 |  900 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 189 | Fusionist                            |  900 |  700 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 190 | Akakieisu                            | 1000 |  800 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 191 | Lala Li-Oon                          |  600 |  600 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 192 | Key Mace                             |  400 |  300 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 193 | Turtle Tiger                         | 1000 | 1500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 194 | Terra the Terrible                   | 1200 | 1300 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 195 | Doron                                |  900 |  500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 196 | Arma Knight                          | 1000 | 1200 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 197 | Mech Mole Zombie                     |  500 |  400 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 198 | Happy Lover                          |  800 |  500 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 199 | Penguin Knight                       |  900 |  800 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 200 | Petit Dragon                         |  600 |  700 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 201 | Frenzied Panda                       | 1200 | 1000 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 202 | Air Marmot of Nefariousness          |  400 |  600 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 203 | Phantom Ghost                        |  600 |  800 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 204 | Mabarrel                             | 1700 | 1400 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 205 | Dorover                              |  900 |  800 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 206 | Twin Long Rods #1                    |  900 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 207 | Droll Bird                           |  600 |  500 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 208 | Petit Angel                          |  600 |  900 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 209 | Winged Cleaver                       |  700 |  700 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 210 | Hinotama Soul                        |  600 |  500 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 211 | Kaminarikozou                        |  700 |  600 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 212 | Meotoko                              |  700 |  600 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 213 | Aqua Madoor                          | 1200 | 2000 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 214 | Kagemusha of the Blue Flame          |  800 |  400 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 215 | Flame Ghost                          | 1000 |  800 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 216 | Dryad                                | 1200 | 1400 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 217 | B. Skull Dragon                      | 3200 | 2500 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 218 | Two-mouth Darkruler                  |  900 |  700 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 219 | Solitude                             | 1050 | 1000 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 220 | Masked Sorcerer                      |  900 | 1400 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 221 | Kumootoko                            |  700 | 1400 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 222 | Midnight Fiend                       |  800 |  600 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 223 | Roaring Ocean Snake                  | 2100 | 1800 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 224 | Trap Master                          |  500 | 1100 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 225 | Fiend Sword                          | 1400 |  800 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 226 | Skull Stalker                        |  900 |  800 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 227 | Hitodenchak                          |  600 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 228 | Wood Remains                         | 1000 |  900 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 229 | Hourglass of Life                    |  700 |  600 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 230 | Rare Fish                            | 1500 | 1200 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 231 | Wood Clown                           |  800 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 232 | Madjinn Gunn                         |  600 |  800 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 233 | Dark Titan of Terror                 | 1300 | 1100 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 234 | Beautiful Head Huntress              | 1600 |  800 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 235 | Wodan the Resident of the Forest     |  900 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 236 | Guardian of the Labyrinth            | 1000 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 237 | Haniwa                               |  500 |  500 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 238 | Yashinoki                            |  800 |  600 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 239 | Vishwar Randi                        |  900 |  700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 240 | The Drdek                            |  700 |  800 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 241 | Dark Assassin                        | 1200 | 1200 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 242 | Candle of Fate                       |  600 |  600 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 243 | Water Element                        |  900 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 244 | Dissolverock                         |  900 | 1000 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 245 | Meda Bat                             |  800 |  400 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 246 | One Who Hunts Souls                  | 1100 | 1000 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 247 | Root Water                           |  900 |  800 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 248 | Master & Expert                      | 1200 | 1000 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 249 | Water Omotics                        | 1400 | 1200 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 250 | Hyo                                  |  800 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 251 | Enchanting Mermaid                   | 1200 |  900 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 252 | Nekogal #1                           | 1100 |  900 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 253 | Angelwitch                           |  800 | 1000 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 254 | Embryonic Beast                      |  500 |  750 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 255 | Prevent Rat                          |  500 | 2000 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 256 | Dimensional Warrior                  | 1200 | 1000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 257 | Stone Armadiller                     |  800 | 1200 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 258 | Beastking of the Swamp               | 1000 | 1100 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 259 | Ancient Sorcerer                     | 1000 | 1300 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 260 | Lunar Queen Elzaim                   |  750 | 1100 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 261 | Wicked Mirror                        |  700 |  600 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 262 | The Little Swordsman of Aile         |  800 | 1300 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 263 | Rock Ogre Grotto #2                  |  700 | 1400 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 264 | Wing Egg Elf                         |  500 | 1300 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 265 | The Furious Sea King                 |  800 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 266 | Princess of Tsurugi                  |  900 |  700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 267 | Unknown Warrior of Fiend             | 1000 |  500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 268 | Sectarian of Secrets                 |  700 |  500 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 269 | Versago the Destroyer                | 1100 |  900 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 270 | Wetha                                | 1000 |  900 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 271 | Megirus Light                        |  900 |  600 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 272 | Mavelus                              | 1300 |  900 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 273 | Ancient Tree of Enlightenment        | 1300 |  900 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 274 | Green Phantom King                   |  500 | 1600 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 275 | Ground Attacker Bugroth              | 1500 | 1000 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 276 | Ray & Temperature                    | 1000 | 1000 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 277 | Gorgon Egg                           |  300 | 1300 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 278 | Petit Moth                           |  300 |  200 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 279 | King Fog                             | 1000 |  900 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 280 | Protector of the Throne              |  800 | 1500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 281 | Mystic Clown                         | 1500 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 282 | Mystical Sheep #2                    |  800 | 1000 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 283 | Holograph                            | 1100 |  700 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 284 | Tao the Chanter                      | 1200 |  900 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 285 | Serpent Maurauder                    |  700 |  600 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 286 | Gate Keeper                          | 1500 | 1800 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 287 | Ogre of the Black Shadow             | 1200 | 1400 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 288 | Dark Arts                            |  600 | 1400 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 289 | Change Slime                         |  400 |  300 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 290 | Moon Envoy                           | 1100 | 1000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 291 | Fireyarou                            | 1300 | 1000 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 292 | Psychic Kappa                        |  400 | 1000 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 293 | Masaki the Legendary Swordsman       | 1100 | 1100 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 294 | Dragoness the Wiched Knight          | 1200 |  900 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 295 | Bio Plant                            |  600 | 1300 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 296 | One-eyed Shield Dragon               |  700 | 1300 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 297 | Cyber Soldier of Dark World          | 1400 | 1200 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 298 | Wicked Dragon with the Ersatz Head   |  900 |  900 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 299 | Sonic Maid                           | 1200 |  900 | Warrior       |
+  --------------------------------------------------------------------------
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+                             Cards #300-599
+  --------------------------------------------------------------------------
+ | No. | Card Title                           | ATK  | DEF  | Type          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 300 | Kurama                               |  800 |  800 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 301 | Legendary Sword                      |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 302 | Sword of Dark Destruction            |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 303 | Dark Energy                          |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 304 | Axe of Dispair                       |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 305 | Laser Cannon Armor                   |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 306 | Insect Armor With A Laser Cannon     |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 307 | Elf's Light                          |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 308 | Beast Fangs                          |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 309 | Steel Shell                          |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 310 | Vile Grems                           |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 311 | Black Pendant                        |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 312 | Silver Bow and Arrow                 |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 313 | Horn of Light                        |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 314 | Horn of the Unicorn                  |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 315 | Dragon Treasure                      |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 316 | Electro-Whip                         |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 317 | Cyber Shield                         |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 318 | Elegant Egotist                      |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 319 | Mystical Moon                        |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 320 | Stop Defense                         |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 321 | Malevolent Nuzzeler                  |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 322 | Violet Crystal                       |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 323 | Book of Secret Arts                  |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 324 | Invigoration                         |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 325 | Machine Conversion Factory           |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 326 | Raise Body Heat                      |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 327 | Follow Wind                          |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 328 | Power of Kaishin                     |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 329 | Dragon Capture Jar                   |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 330 | Forest                               |      |      | Terrain Magic |
+ |-----+--------------------------------------+------+------+---------------|
+ | 331 | Wasteland                            |      |      | Terrain Magic |
+ |-----+--------------------------------------+------+------+---------------|
+ | 332 | Mountain                             |      |      | Terrain Magic |
+ |-----+--------------------------------------+------+------+---------------|
+ | 333 | Sogen                                |      |      | Terrain Magic |
+ |-----+--------------------------------------+------+------+---------------|
+ | 334 | Umi                                  |      |      | Terrain Magic |
+ |-----+--------------------------------------+------+------+---------------|
+ | 335 | Yami                                 |      |      | Terrain Magic |
+ |-----+--------------------------------------+------+------+---------------|
+ | 336 | Dark Hole                            |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 337 | Raigeki                              |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 338 | Mooyan Curry                         |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 339 | Red Medicine                         |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 340 | Goblin's Secret Remedy               |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 341 | Soul of the Pure                     |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 342 | Dian Keto the Cure Master            |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 343 | Sparks                               |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 344 | Hinotama                             |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 345 | Final Flame                          |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 346 | Ookazi                               |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 347 | Tremendose Fire                      |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 348 | Swords of Revealing Light            |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 349 | Spellbinding Circle                  |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 350 | Dark Piercing Light                  |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 351 | Yaranzo                              | 1300 | 1500 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 352 | Kanan the Swordmistress              | 1400 | 1400 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 353 | Takriminos                           | 1500 | 1200 | Sea Serpent   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 354 | Stuffed Animal                       | 1200 |  900 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 355 | Megasonic Eye                        | 1500 | 1800 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 356 | Super War-Lion                       | 2300 | 2100 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 357 | Yamadron                             | 1600 | 1800 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 358 | Seiyaryu                             | 2500 | 2300 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 359 | Three-legged Zombie                  | 1100 |  800 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 360 | Zera the Mant                        | 2800 | 2300 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 361 | Flying Penguin                       | 1200 | 1000 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 362 | Millennium Shield                    |    0 | 3000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 363 | Fairy's Gift                         | 1400 | 1000 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 364 | Black Luster Soldier                 | 3000 | 2500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 365 | Fiend's Mirror                       | 2100 | 1800 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 366 | Labyrinth Wall                       |    0 | 3000 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 367 | Jirai Gumo                           | 2200 |  100 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 368 | Shadow Ghoul                         | 1600 | 1300 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 369 | Wall Shadow                          | 1600 | 3000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 370 | Labyrinth Tank                       | 2400 | 2400 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 371 | Sanga of the Thunder                 | 2600 | 2200 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 372 | Kazejin                              | 2400 | 2200 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 373 | Suijin                               | 2500 | 2400 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 374 | Gate Guardian                        | 3750 | 3400 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 375 | Dungeon Worm                         | 1800 | 1500 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 376 | Monster Tamer                        | 1800 | 1600 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 377 | Ryu-Kishin Powered                   | 1600 | 1200 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 378 | Swordstalker                         | 2000 | 1600 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 379 | La Jinn the Mystical Genie           | 1800 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 380 | Blue Eyes Ultimate Dragon            | 4500 | 3800 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 381 | Toon Alligator                       |  800 | 1600 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 382 | Rude Kaiser                          | 1800 | 1600 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 383 | Parrot Dragon                        | 2000 | 1300 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 384 | Dark Rabbit                          | 1100 | 1500 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 385 | Bickuribox                           | 2300 | 2000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 386 | Harpie's Pet Dragon                  | 2000 | 2500 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 387 | Mystic Lamp                          |  400 |  300 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 388 | Pendulum Machine                     | 1750 | 2000 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 389 | Giltia the D. Knight                 | 1850 | 1500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 390 | Launcher Spider                      | 2200 | 2500 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 391 | Zoa                                  | 2600 | 1900 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 392 | Metalzoa                             | 3000 | 2300 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 393 | Zone Eater                           |  250 |  200 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 394 | Steel Scorpion                       |  250 |  300 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 395 | Dancing Elf                          |  300 |  200 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 396 | Ocubeam                              | 1550 | 1650 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 397 | Leghul                               |  300 |  350 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 398 | Ooguchi                              |  300 |  250 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 399 | Swordsman from the Foreign Land      |  250 |  250 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 400 | Emperor of the Land and Sea          | 1800 | 1500 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 401 | Ushi oni                             | 2150 | 1950 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 402 | Monster Eye                          |  250 |  300 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 403 | Leogun                               | 1750 | 1550 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 404 | Tatsunootoshigo                      | 1350 | 1600 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 405 | Saber Slasher                        | 1450 | 1500 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 406 | Yaiba Robo                           | 1000 | 1300 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 407 | Machine King                         | 2200 | 2000 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 408 | Giant Mech-Soldier                   | 1750 | 1900 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 409 | Metal Dragon                         | 1850 | 1700 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 410 | Mechanical Spider                    |  400 |  500 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 411 | Bat                                  |  300 |  350 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 412 | Giga-Tech Wolf                       | 1200 | 1400 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 413 | Cyber Soldier                        | 1500 | 1700 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 414 | Shovel Crusher                       |  900 | 1200 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 415 | Mechanicalchacer                     | 1850 |  800 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 416 | Blocker                              |  850 | 1800 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 417 | Blast Juggler                        |  800 |  900 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 418 | Golgoil                              |  900 | 1600 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 419 | Giganto                              | 1700 | 1800 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 420 | Cyber-Stein                          |  700 |  500 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 421 | Cyber Commander                      |  750 |  700 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 422 | Jinzo #7                             |  500 |  400 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 423 | Dice Armadillo                       | 1650 | 1800 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 424 | Sky Dragon                           | 1900 | 1800 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 425 | Thunder Dragon                       | 1600 | 1500 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 426 | Stone D.                             | 2000 | 2300 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 427 | Kaiser Dragon                        | 2300 | 2000 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 428 | Magician of Faith                    |  300 |  400 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 429 | Goddess of Whim                      |  950 |  700 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 430 | Water Magician                       | 1400 | 1000 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 431 | Ice Water                            | 1150 |  900 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 432 | Waterdragon Fairy                    | 1100 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 433 | Ancient Elf                          | 1450 | 1200 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 434 | Beautiful Beast Trainer              | 1750 | 1500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 435 | Water Girl                           | 1250 | 1000 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 436 | White Dolphin                        |  500 |  400 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 437 | Deepsea Shark                        | 1900 | 1600 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 438 | Metal Fish                           | 1600 | 1900 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 439 | Bottom Dweller                       | 1650 | 1700 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 440 | 7 Colored Fish                       | 1800 |  800 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 441 | Mech Bass                            | 1800 | 1500 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 442 | Aqua Dragon                          | 2250 | 1900 | Sea Serpent   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 443 | Sea King Dragon                      | 2000 | 1700 | Sea Serpent   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 444 | Turu-Purun                           |  450 |  500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 445 | Guardian of the Sea                  | 1300 | 1000 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 446 | Aqua Snake                           | 1050 |  900 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 447 | Giant Red Snake                      | 1800 |  800 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 448 | Spike Seadra                         | 1600 | 1300 | Sea Serpent   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 449 | 30,000-Year White Turtle             | 1250 | 2100 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 450 | Kappa Avenger                        | 1200 |  900 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 451 | Kanikabuto                           |  650 |  900 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 452 | Zarigun                              |  600 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 453 | Millennium Golem                     | 2000 | 2200 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 454 | Destroyer Golem                      | 1500 | 1000 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 455 | Barrel Rock                          | 1000 | 1300 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 456 | Minomushi Warrior                    | 1300 | 1200 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 457 | Stone Ghost                          | 1200 | 1000 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 458 | Kaminari Attack                      | 1900 | 1400 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 459 | Tripwire Beast                       | 1200 | 1300 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 460 | Bolt Escargot                        | 1400 | 1500 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 461 | Bolt Penguin                         | 1100 |  800 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 462 | The Immortal of Thunder              | 1500 | 1300 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 463 | Electric Snake                       |  800 |  900 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 464 | Wing Eagle                           | 1800 | 1500 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 465 | Punished Eagle                       | 2100 | 1800 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 466 | Skull Red Bird                       | 1550 | 1200 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 467 | Crimson Sunbird                      | 2300 | 1800 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 468 | Queen Bird                           | 1200 | 2000 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 469 | Armed Ninja                          |  300 |  300 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 470 | Magical Ghost                        | 1300 | 1400 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 471 | Soul Hunter                          | 2200 | 1800 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 472 | Air Eater                            | 2100 | 1600 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 473 | Vermillion Sparrow                   | 1900 | 1500 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 474 | Sea Kamen                            | 1100 | 1300 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 475 | Sinister Serpent                     |  300 |  250 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 476 | Ganigumo                             |  600 |  800 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 477 | Aliensection                         |  950 |  700 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 478 | Insect Soldiers of the Sky           | 1000 |  800 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 479 | Cockroach Knight                     |  800 |  900 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 480 | Kuwagata Alpha                       | 1250 | 1000 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 481 | Burglar                              |  850 |  800 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 482 | Pragtical                            | 1900 | 1500 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 483 | Garvas                               | 2000 | 1700 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 484 | Amoeba                               |  300 |  350 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 485 | Korogashi                            |  550 |  400 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 486 | Boo Koo                              |  650 |  500 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 487 | Flower Wolf                          | 1800 | 1400 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 488 | Rainbow Flower                       |  400 |  500 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 489 | Barrel Lily                          | 1100 |  600 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 490 | Needle Ball                          |  750 |  700 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 491 | Peacock                              | 1700 | 1500 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 492 | Hoshinigen                           |  500 |  700 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 493 | Maha Vailo                           | 1550 | 1400 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 494 | Rainbow Marine Mermaid               | 1550 | 1700 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 495 | Musicain King                        | 1750 | 1500 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 496 | Wilmee                               | 1000 | 1200 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 497 | Yado Karu                            |  900 | 1700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 498 | Morinphen                            | 1550 | 1300 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 499 | Kattapillar                          |  250 |  300 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 500 | Dragon Seeker                        | 2100 | 2000 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 501 | Man-Eater Bug                        |  450 |  600 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 502 | D. Human                             | 1300 | 1100 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 503 | Turtle Raccoon                       |  700 |  900 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 504 | Fungi of the Musk                    |  400 |  300 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 505 | Prisman                              |  800 | 1000 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 506 | Gale Dogra                           |  650 |  600 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 507 | Crazy Fish                           | 1600 | 1200 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 508 | Cyber Saurus                         | 1800 | 1400 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 509 | Bracchio-Raidus                      | 2200 | 2000 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 510 | Laughing Flower                      |  900 |  500 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 511 | Bean Soldier                         | 1400 | 1300 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 512 | Cannon Soldier                       | 1400 | 1300 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 513 | Guardian of the Throne Room          | 1650 | 1600 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 514 | Brave Scizzar                        | 1300 | 1000 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 515 | The Statue of Easter Island          | 1100 | 1400 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 516 | Muka Muka                            |  600 |  300 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 517 | Sand Stone                           | 1300 | 1600 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 518 | Boulder Tortoise                     | 1450 | 2200 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 519 | Fire Kraken                          | 1600 | 1500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 520 | Turtle Bird                          | 1900 | 1700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 521 | Skullbird                            | 1900 | 1700 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 522 | Monstrous Bird                       | 2000 | 1900 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 523 | The Bistro Butcher                   | 1800 | 1000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 524 | Star Boy                             |  550 |  500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 525 | Spirit of the Mountain               | 1300 | 1800 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 526 | Neck Hunter                          | 1750 | 1900 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 527 | Milus Radiant                        |  300 |  250 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 528 | Togex                                | 1600 | 1800 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 529 | Flame Cerberus                       | 2100 | 1800 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 530 | Eldeen                               |  950 | 1000 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 531 | Mystical Sand                        | 2100 | 1700 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 532 | Gemini Elf                           | 1900 |  900 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 533 | Kwagar Hercules                      | 1900 | 1700 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 534 | Minar                                |  850 |  750 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 535 | Kamakiriman                          | 1150 | 1400 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 536 | Mechaleon                            |  800 |  600 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 537 | Mega Thunderball                     |  750 |  600 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 538 | Niwatori                             |  900 |  800 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 539 | Corroding Shark                      |  110 |  700 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 540 | Skelengel                            |  900 |  400 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 541 | Hanehane                             |  450 |  500 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 542 | Misairuzame                          | 1400 | 1600 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 543 | Tongyo                               | 1350 |  800 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 544 | Dharma Cannon                        |  900 |  500 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 545 | Skelgon                              | 1700 | 1900 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 546 | Wow Warrior                          | 1250 |  900 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 547 | Griggle                              |  350 |  300 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 548 | Bone Mouse                           |  400 |  300 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 549 | Frog the Jam                         |  700 |  500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 550 | Behegon                              | 1350 | 1000 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 551 | Dark Elf                             | 2000 |  800 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 552 | Winged Dragon #2                     | 1200 | 1000 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 553 | Mushroom Man #2                      | 1250 |  800 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 554 | Lava Battleguard                     | 1550 | 1800 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 555 | Tyhone #2                            | 1700 | 1900 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 556 | The Wandering Doomed                 |  800 |  600 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 557 | Steel Ogre Grotto #1                 | 1400 | 1800 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 558 | Pot the Trick                        |  400 |  400 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 559 | Oscillo Hero                         | 1250 |  700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 560 | Invader from Another Planet          |  950 | 1400 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 561 | Lesser Dragon                        | 1200 | 1000 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 562 | Needle Worm                          |  750 |  600 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 563 | Wretched Ghost of the Attic          |  550 |  400 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 564 | Great Mammoth of Goldfine            | 2200 | 1800 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 565 | Man-Eating Black Shark               | 2100 | 1300 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 566 | Yormungarde                          | 1200 |  900 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 567 | Darkworld Thorns                     | 1200 |  900 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 568 | Anthrosaurus                         | 1000 |  850 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 569 | Drooling Lizard                      |  900 |  800 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 570 | Trakadon                             | 1300 |  800 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 571 | B. Dragon Jungle King                | 2100 | 1800 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 572 | Empress Judge                        | 2100 | 1700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 573 | Little D.                            | 1100 |  700 | Dinosaur      |
+ |-----+--------------------------------------+------+------+---------------|
+ | 574 | Witch of the Black Forest            | 1100 | 1200 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 575 | Ancient One of the Deep Forest       | 1800 | 1900 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 576 | Giant Scorpion of the Tundra         | 1100 | 1000 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 577 | Crow Goblin                          | 1850 | 1600 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 578 | Leo Wizard                           | 1350 | 1200 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 579 | Abyss Flower                         |  750 |  400 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 580 | Patrol Robo                          | 1100 |  900 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 581 | Takuhee                              | 1450 | 1000 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 582 | Dark Witch                           | 1800 | 1700 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 583 | Weather Report                       |  950 | 1500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 584 | Binding Chain                        | 1000 | 1100 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 585 | Mechanical Snail                     |  800 | 1000 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 586 | Greenkappa                           |  650 |  900 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 587 | Mon Larvas                           | 1300 | 1400 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 588 | Living Vase                          |  900 | 1100 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 589 | Tentacle Plant                       |  500 |  600 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 590 | Beaked Snake                         |  800 |  900 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 591 | Morphing Jar                         |  700 |  600 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 592 | Muse-A                               |  850 |  900 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 593 | Giant Turtle Who Feeds on Flames     | 1400 | 1800 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 594 | Rose Spectre of Dunn                 | 2000 | 1800 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 595 | Fiend Reflection #1                  | 1300 | 1400 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 596 | Ghoul With An Appetite               | 1600 | 1200 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 597 | Pale Beast                           | 1500 | 1200 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 598 | Little Chimera                       |  600 |  550 | Beast         |
+  --------------------------------------------------------------------------
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+                             Cards #600-722
+  --------------------------------------------------------------------------
+ | No. | Card Title                           | ATK  | DEF  | Type          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 599 | Violent Rain                         | 1550 |  800 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 600 | Key Mace #2                          | 1050 | 1200 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 601 | Tenderness                           |  700 | 1400 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 602 | Penguin Soldier                      |  750 |  500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 603 | Fairy Dragon                         | 1100 | 1200 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 604 | Obese Marmot of Nefariousness        |  750 |  800 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 605 | Liquid Beast                         |  950 |  800 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 606 | Twin Long Rods #2                    |  850 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 607 | Great Bill                           | 1250 | 1300 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 608 | Shining Friendship                   | 1300 | 1100 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 609 | Bladefly                             |  600 |  700 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 610 | Electric Lizard                      |  850 |  800 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 611 | Hiro's Shadow Scout                  |  650 |  500 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 612 | Lady of Faith                        | 1100 |  800 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 613 | Twin-headed Thunder Dragon           | 2800 | 2100 | Thunder       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 614 | Hunter Spider                        | 1600 | 1400 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 615 | Armored Starfish                     |  850 | 1400 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 616 | Hourglass of Courage                 | 1100 | 1200 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 617 | Marine Beast                         | 1700 | 1600 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 618 | Warrior of Tradition                 | 1900 | 1700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 619 | Rock Spirit                          | 1650 | 1900 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 620 | Snakeyashi                           | 1000 | 1200 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 621 | Succubus Knight                      | 1650 | 1300 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 622 | Ill Witch                            | 1600 | 1500 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 623 | The Thing that Hides in the Mud      | 1200 | 1300 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 624 | High Tide Gyojin                     | 1650 | 1300 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 625 | Fairy of the Fountain                | 1600 | 1100 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 626 | Amazon of the Seas                   | 1300 | 1400 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 627 | Nekogal #2                           | 1900 | 2000 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 628 | Witch's Apprentice                   |  550 |  500 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 629 | Armored Rat                          |  950 | 1100 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 630 | Ancient Lizard Warrior               | 1400 | 1100 | Reptile       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 631 | Maiden of the Moonlight              | 1500 | 1300 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 632 | Stone Ogre Grotto                    | 1600 | 1500 | Rock          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 633 | Winged Egg of New Life               | 1400 | 1700 | Fairy         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 634 | Night Lizard                         | 1150 | 1300 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 635 | Queen's Double                       |  350 |  300 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 636 | Blue Winged Crown                    | 1600 | 1200 | Winged Beast  |
+ |-----+--------------------------------------+------+------+---------------|
+ | 637 | Trent                                | 1500 | 1800 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 638 | Queen of the Autumn Leaves           | 1800 | 1500 | Plant         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 639 | Amphibious Bugroth                   | 1850 | 1300 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 640 | Acid Crawler                         |  900 |  700 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 641 | Invader of the Throne                | 1350 | 1700 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 642 | Mystical Sheep #1                    | 1150 |  900 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 643 | Disk Magician                        | 1350 | 1000 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 644 | Flame Viper                          |  400 |  450 | Pyro          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 645 | Royal Guard                          | 1900 | 2200 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 646 | Gruesome Goo                         | 1300 |  700 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 647 | Hyosube                              | 1500 |  900 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 648 | Machine Attacker                     | 1600 | 1300 | Machine       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 649 | Hibikime                             | 1450 | 1000 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 650 | Whiptail Crow                        | 1650 | 1600 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 651 | Kunai with Chain                     |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 652 | Magic Labyrinth                      |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 653 | Warrior Elimination                  |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 654 | Salamandra                           |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 655 | Cursebraker                          |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 656 | Eternal Rest                         |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 657 | Megamorph                            |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 658 | Metalmorph                           |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 659 | Winged Trumpeter                     |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 660 | Stain Storm                          |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 661 | Crush Card                           |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 662 | Eradicading Aerosol                  |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 663 | Breath of Light                      |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 664 | Eternal Drought                      |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 665 | Curse of the Millennium Shield       |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 666 | Yamadron Ritual                      |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 667 | Gate Guardian Ritual                 |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 668 | Bright Castle                        |      |      | Equip Magic   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 669 | Shadow Spell                         |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 670 | Black Luster Ritual                  |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 671 | Zera Ritual                          |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 672 | Harpie's Feather Duster              |      |      | Magic         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 673 | War-Lion Ritual                      |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 674 | Beastry Mirror Ritual                |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 675 | Ultimate Dragon                      |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 676 | Commencement Dance                   |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 677 | Hamburger Recipe                     |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 678 | Revival of Sengenjin                 |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 679 | Novox's Prayer                       |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 680 | Curse of Tri-Horned Dragon           |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 681 | House of Adhesive Tape               |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 682 | Eatgaboon                            |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 683 | Bear Trap                            |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 684 | Invisible Wire                       |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 685 | Acid Trap Hole                       |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 686 | Widespread Ruin                      |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 687 | Goblin Fan                           |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 688 | Bad Reaction to Simochi              |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 689 | Reverse Trap                         |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 690 | Fake Trap                            |      |      | Trap          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 691 | Revival of Serpent Night Dragon      |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 692 | Turtle Oath                          |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 693 | Contruct of Mask                     |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 694 | Resurrection of Chakra               |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 695 | Puppet Ritual                        |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 696 | Javelin Beetle Pact                  |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 697 | Garma Sword Oath                     |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 698 | Cosmo Queen's Prayer                 |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 699 | Revival of Skeleton Rider            |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 700 | Fortress Whale's Oath                |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 701 | Performance of Sword                 | 1950 | 1850 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 702 | Hungery Burger                       | 2000 | 1850 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 703 | Sengenjin                            | 2750 | 2500 | Beast Warrior |
+ |-----+--------------------------------------+------+------+---------------|
+ | 704 | Skull Guardian                       | 2050 | 2500 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 705 | Tri-Horned Dragon                    | 2850 | 2350 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 706 | Serpent Night Dragon                 | 2350 | 2400 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 707 | Skull Knight                         | 2650 | 2250 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 708 | Cosmo Queen                          | 2900 | 2450 | Spellcaster   |
+ |-----+--------------------------------------+------+------+---------------|
+ | 709 | Charka                               | 2450 | 2000 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 710 | Crab Turtle                          | 2550 | 2500 | Aqua          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 711 | Mikazukinoyaiba                      | 2200 | 2350 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 712 | Meteor Dragon                        | 1800 | 2000 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 713 | Meteor B. Dragon                     | 3500 | 2000 | Dragon        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 714 | Firewing Pegasus                     | 2250 | 1800 | Beast         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 715 | Psyco Puppet                         | 2000 | 2350 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 716 | Garma Sword                          | 2550 | 2150 | Warrior       |
+ |-----+--------------------------------------+------+------+---------------|
+ | 717 | Javelin Beetle                       | 2450 | 2550 | Insect        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 718 | Fortress Whale                       | 2350 | 2150 | Fish          |
+ |-----+--------------------------------------+------+------+---------------|
+ | 719 | Dokurorider                          | 1900 | 1850 | Zombie        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 720 | Mask of Shine and Dark               | 2000 | 1800 | Fiend         |
+ |-----+--------------------------------------+------+------+---------------|
+ | 721 | Dark Magic Ritual                    |      |      | Ritual        |
+ |-----+--------------------------------------+------+------+---------------|
+ | 722 | Magician of Black Chaos              | 2800 | 2600 | Spellcaster   |
+  --------------------------------------------------------------------------
+
+========================
+Tips/Tricks
+========================
+   In this section you'll find some tips and tricks to make this game
+easier.
+
+Legend: Here's how I'm gonna put it.
+Tip or Trick name
+Description:
+What you need to do the trick.
+Step 1:
+Step 2:
+Step 3:
+and so on.
+
+Duplicating Cards Trick
+Description: This trick will allow you to duplicate cards at the beginning
+of the game.
+2 Memory Cards
+Step 1: Put memory card #1 to slot 1.
+Step 2: Start a new game on memory card #1 and save.
+Step 3: Put memory card #2 in slot 2.
+Step 4: Start a new game on memory card #2 and save.
+Step 5: Now go to trade all the good card from one memory card to the other.
+Step 6: Now you can start over on a memory card and do the same thing until
+you get some good cards.
+
+===================
+Q&A
+===================
+
+Here is some question that people ask me about the game and the
+walkthrough.
+
+--------------------------------------------------------------
+
+Q: How do you make Blue Eyes Ultimate Dragon?
+
+A: Easy, you need three Blue Eyes White Dragon and an Ultimate Dragon
+Ritual Card. Put the three Blue Eyes on the field then use the ritual
+card to sacrifice the Blue Eyes to create Ultimate Dragon.
+
+--------------------------------------------------------------
+
+Q: What is tech rank and how do you get it?
+
+A: Defeat your opponent when they're almost or ran out of cards to get
+tech rank.
+
+--------------------------------------------------------------
+
+Q: Do you get better cards when you get tech rank?
+
+A: Not really you get more traps and magic card in Tech than Pow.
+
+--------------------------------------------------------------
+
+Q: Do you have to have all Exodia Piece in you hand or on the field?
+
+A: Hand, to summon Exodia.
+
+--------------------------------------------------------------
+
+Q: How do I use the Black Luster Ritual?
+
+A: You have to have Gaia the Fierce Knight, Beaver Warrior and Kuriboh
+on the field. Then use the ritual card to sacrifice them.
+
+--------------------------------------------------------------
+
+Q: Who gives out Exodias Legs?
+
+A: I got mine from Villagers and Duel Master K.
+
+--------------------------------------------------------------
+
+Q: Can I get some ritual cards as a base card?
+
+A: No, there's know way unless you use gameshark.
+
+--------------------------------------------------------------
+
+Q: Are you sure the Low Meadow Mage give you all those cards?
+
+A: Yes but you have to duel him a lot for it.
+
+--------------------------------------------------------------
+
+Q: Who do you duel for Dark Magic Ritual?
+
+A: Sorry I don't know where to get it. I'll posted as soon as I can find
+it.
+
+--------------------------------------------------------------
+
+Q: How do you get Gate Guardian?
+
+A: You need Sanga of Thunder, Kazejin, and Suijin on the field then use
+the Gate Guardian Ritual.
+
+--------------------------------------------------------------
+
+Q: How do I get Tri-Horn Dragon?
+
+A: You can't get him as a base card. You need to use the ritual card.
+Check my walkthrough ritual section for more information.
+
+--------------------------------------------------------------
+
+Q: Who do you duel after Seto 2?
+
+A: You have to beat all mages.
+
+--------------------------------------------------------------
+
+Q: How do you get Ritual Cards?
+
+A: There pretty hard to get. Just buy them it only cost about 100 star
+chip each. Or you can duel Bakura at tech S because he gives a lot of them.
+
+--------------------------------------------------------------
+Coming Soon...
+
+NONE It's my final update ^_^
+
+====================
+Credits
+====================
+
+I would like to thank Konami for making this game.
+
+Thank myself for writing this.
+
+I would also thank myself for making the ASCII art.
+
+Thanks to my brother for helping me beat the game.
+
+Thank you Gamefaqs.com, Neoseeker.com, and Psxcodez.com for posting my
+guides.
+
+---------------------------------------------------
+Rare Cards Location Credits
+---------------------------------------------------
+
+Thanks Azn Dragons for adding some more cards.
+
+Thank you finalfantasypyro for adding in new cards.
+
+Thanks keldonwarlord006 for adding in new cards.
+
+Thanks BJohnson for letting me use some password.
+
+Thank you Hazardous87 for adding Skull Knight.
+
+Thanks shortymjh for giving me some password.
+
+Thanks novastrike81 for adding Twin Headed Thunder Dragon to the FAQ.
+
+Thanks RedZero99 for adding two new cards to the rare card location.
+
+-----------------------------------------------------
+Duels Statistic Credits
+-----------------------------------------------------
+
+I want to thanks world_champion for adding some duel statistic.
+
+Thanks ngcheechong for letting me use the 50 duel statistic.
+
+Thank you liquidsnake741 for adding Seto 1 to the Duel Statistic section.
+
+Thanks kyokusangi for adding Low Meadow Mage to the statistic.
+
+------------------------------------------------------
+Ritual Section Credits
+------------------------------------------------------
+
+Thanks ngcheechong for helping me complete the ritual section.
+
+------------------------------------------------------
+Fixing the FAQ Credits
+------------------------------------------------------
+
+Thanks Striderneo15 for fixing Isis.
+
+Thanks Taothao for fixing my mistake.
+
+Thanks danielw123456 for fixing some mistake.
+
+Thanks aj for the info.
+
+------------------------------------------------------
+Card List Credits
+------------------------------------------------------
+
+Thanks again Ngheechong for adding cards #221-722
+
+And last thanks whoever was reading this.
+
+=======================
+Contact Info.
+=======================
+Here's some ways you can contact me to fix or make the FAQ
+better. Due to randomly dumb emails I'm getting I will no
+longer answer anymore emails!
+
+Message Board
+--------------
+I'm always found on the gamefaqs and neoseeker message board.
+
+Email
+------
+nnguyen11490@yahoo.com
+
+Instant Message
+----------------
+Yahoo Instant Messenger: nnguyen11490
+AIM: ngankn11490
+
+~~~~~~~~~~~~~~~
+   Copyright
+~~~~~~~~~~~~~~~
+
+Copyrighted 2002 nnguyen11490. None of this writing may
+be reproduce in Any way without the writer's permission.
+This FAQ is for personal use only. If you want to put
+this FAQ on your website, magazine, etc, email me first!
+You might or will be sue if you don't have my
+permission!!! Remember Plagiarism is a crime that will
+be punished.
+
+Remeber if you want to use some information on my FAQs for your own
+FAQ or anything else, the feel free to email me and I MIGHT give
+you permission.
