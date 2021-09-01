@@ -17,20 +17,45 @@ for (i = 1; i <= (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); i++) {
     handCompletions["hand" + i] = new Awesomplete(hand, _awesompleteOpts);
 }
 
+function renderCardInputHtml(card) {
+    var $cardName = $('<span class="font-bold" />').text(card.Name);
+    if (!card._is_on_hand) {
+        $cardName.addClass('text-purple-500');
+    }
+
+    var $output = $('<li />')
+        .attr('data-card-input-id', card._input_hand_id)
+        .append('Input: ')
+        .append($cardName);
+        
+    // Return the outer HTML
+    return $output[0].outerHTML;
+}
+
 // Creates a div for each fusion
 function fusesToHTML(fuselist) {
     return fuselist
         .map(function (fusion) {
-            var res =
-                "<div class='result-div text-sm'><ul class=\"list-decimal pl-8 mb-2\" style=\" padding-left: 32px; margin: 0 0 4px 0; \"><li data-card-input-id=\""+ fusion.card1._input_hand_id +"\">Input: " +
-                '<b>'+ fusion.card1.Name +'</b>' +
-                "</li><li data-card-input-id=\""+ fusion.card2._input_hand_id +"\">Input: " +
-                '<b>'+ fusion.card2.Name +'</b>' + '</li>';
+            var res = '';
 
+            res += `<div class="result-div text-sm">`;
+            res += `<ul class="list-decimal pl-8 mb-2">`;
+            res += renderCardInputHtml(fusion.card1);
+            res += renderCardInputHtml(fusion.card2);
             if (fusion.card3) {
-                res += "<li data-card-input-id=\""+ fusion.card3._input_hand_id +"\">Input: " + '<b>'+ fusion.card3.Name +'</b>';
-                res += '</li>';
+                res += renderCardInputHtml(fusion.card3);
             }
+
+            // var res =
+            //     "<div class='result-div text-sm'><ul class=\"list-decimal pl-8 mb-2\" style=\" padding-left: 32px; margin: 0 0 4px 0; \"><li data-card-input-id=\""+ fusion.card1._input_hand_id +"\">Input: " +
+            //     '<b>'+ fusion.card1.Name +'</b>' +
+            //     "</li><li data-card-input-id=\""+ fusion.card2._input_hand_id +"\">Input: " +
+            //     '<b>'+ fusion.card2.Name +'</b>' + '</li>';
+
+            // if (fusion.card3) {
+            //     res += "<li data-card-input-id=\""+ fusion.card3._input_hand_id +"\">Input: " + '<b>'+ fusion.card3.Name +'</b>';
+            //     res += '</li>';
+            // }
 
             res += '</ul>';
 
@@ -103,17 +128,18 @@ function findFusions() {
         var name = $("#hand" + i).val();
         var card = getCardByName(name);
         if (card) {
+            var clonedCard = {...card};
             // Because i starts from 1, so 5 is the first 1/2
-            card._is_on_hand = i <= TOTAL_CARDS_ON_HAND;
-            card._input_hand_id = i;
-            cards.push(card);
+            clonedCard._is_on_hand = i <= TOTAL_CARDS_ON_HAND;
+            clonedCard._input_hand_id = i;
+            cards.push(clonedCard);
         }
     }
 
     var fuses = [];
     var equips = [];
 
-    for (i = 0; i < (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED) - 1; i++) {
+    for (let i = 0; i < (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); i++) {
         var card1 = cards[i];
 
         // We cannot fuse played card
@@ -121,7 +147,7 @@ function findFusions() {
             break;
         }
 
-        for (j = i + 1; j < cards.length; j++) {
+        for (let j = i + 1; j < cards.length; j++) {
             var card2 = cards[j];
 
             var equip = equipsList[card1.Id].find((e) => e === card2.Id);
@@ -140,13 +166,16 @@ function findFusions() {
                     continue;
                 }
 
-                // Continue to find the 3rd fusion
-                for (k = j + 1; k < cards.length; k++) {
+                for (let k = 0; k < (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); k++) {
+                    if (k === i || k === j) {
+                        continue;
+                    }
+
                     var card3 = cards[k];
 
                     // Similar idea, we cannot use 2 on hand card with a played card
                     // Because the played card must always be the 1st card to fuse
-                    if (card3 && !card3._is_on_hand) {
+                    if (!card3 || !card3._is_on_hand) {
                         // Skip to check next card, DO NOT break
                         continue;
                     }
@@ -155,6 +184,55 @@ function findFusions() {
 
                     if (card123Fusion) {
                         fuses.push({ card1, card2, card3, result: getCardById(card123Fusion.result) });
+                    }
+                }
+            }
+        }
+    }
+
+    // Check backward: check the played card to see if it can be fused with on-hand cards
+    // We can fuse 1 play card with one or more on-hand cards
+    for (let i = 0; i < (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); i++) {
+        var playedCard = cards[i];
+
+        // We only interested in played card (e.g. "_is_on_hand" is false)
+        // If not, skip
+        if (!playedCard || playedCard._is_on_hand) {
+            continue;
+        }
+
+        // We have a played card, now check against the on-hand cards
+        for (let j = 0; j < (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); j++) {
+            var onHandCard1 = cards[j];
+
+            if (!onHandCard1 || !onHandCard1._is_on_hand) {
+                continue;
+            }
+
+            var fusion1result = fusionsList[playedCard.Id].find((f) => f.card === onHandCard1.Id);
+
+            if (fusion1result) {
+                fuses.push({ card1: playedCard, card2: onHandCard1, result: getCardById(fusion1result.result) });
+
+                // Continue check if we can fuse another on-hand card
+                for (let k = 0; k < (TOTAL_CARDS_ON_HAND + TOTAL_CARDS_PLAYED); k++) {
+                    if (k === j) {
+                        continue;
+                    }
+
+                    var onHandCard2 = cards[k];
+
+                    // Similar idea, we cannot use 2 on hand card with a played card
+                    // Because the played card must always be the 1st card to fuse
+                    if (!onHandCard2 || !onHandCard2._is_on_hand) {
+                        // Skip to check next card, DO NOT break
+                        continue;
+                    }
+
+                    var fusion2result = fusionsList[fusion1result.result].find((f) => f.card === onHandCard2.Id);
+
+                    if (fusion2result) {
+                        fuses.push({ card1: playedCard, card2: onHandCard1, card3: onHandCard2, result: getCardById(fusion2result.result) });
                     }
                 }
             }
