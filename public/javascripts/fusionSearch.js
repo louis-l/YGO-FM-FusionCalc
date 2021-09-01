@@ -121,7 +121,7 @@ function searchByName() {
             outputRight.innerHTML += fusesToHTML(equips);
 
             outputLeft.innerHTML = "<h2 class='text-center my-4'>Fusions</h2>";
-            outputLeft.innerHTML += fusesToHTML(fuses);
+            outputLeft.innerHTML += fusesToHTML(fuses.sort((a, b) => b.result.Attack - a.result.Attack));
         }
     }
 }
